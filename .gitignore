@@ -1,0 +1,10 @@
+.venv/
+data/raw/
+data/extracted/
+models/
+external/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+data/meta/*.log

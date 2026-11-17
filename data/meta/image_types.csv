@@ -1,0 +1,2800 @@
+source,case_id,image_type,how,n_panels,labels,mask_in_panels
+forged,10,Microscopy,mask,1,Microscopy,1.0
+forged,10015,Microscopy,mask,1,Microscopy,1.0
+forged,10017,Microscopy,mask,1,Microscopy,1.0
+forged,10030,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,10070,Microscopy,mask,1,Microscopy,0.997
+forged,1008,Blots,mask,1,Blots,1.0
+forged,10138,Body Imaging,mask,4,Body Imaging;Graphs,0.492
+forged,10139,Microscopy,mask,1,Microscopy,1.0
+forged,10147,Microscopy,mask,1,Microscopy,1.0
+forged,10152,Blots,mask,1,Blots,0.988
+forged,10176,Body Imaging,mask,4,Body Imaging,0.935
+forged,10180,Body Imaging,mask,2,Body Imaging,1.0
+forged,10208,Microscopy,mask,1,Microscopy,1.0
+forged,10266,Body Imaging,mask,1,Body Imaging,1.0
+forged,10277,Body Imaging,mask,4,Body Imaging,1.0
+forged,10290,Microscopy,mask,1,Microscopy,1.0
+forged,10296,Microscopy,mask,1,Microscopy,1.0
+forged,10307,Microscopy,mask,1,Microscopy,1.0
+forged,10348,Microscopy,mask,1,Microscopy,1.0
+forged,10398,Microscopy,mask,1,Microscopy,1.0
+forged,10408,Blots,mask,1,Blots,0.974
+forged,1041,Microscopy,mask,1,Microscopy,1.0
+forged,10435,Blots,mask,1,Blots,0.996
+forged,10448,Blots,mask,1,Blots,0.986
+forged,10457,Microscopy,mask,1,Microscopy,1.0
+forged,10458,Blots,mask,1,Blots,1.0
+forged,10476,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,10505,Blots,mask,1,Blots,0.988
+forged,10570,Blots,mask,1,Blots,0.997
+forged,10602,Blots,mask,1,Blots,1.0
+forged,10632,Microscopy,mask,1,Microscopy,1.0
+forged,10636,Microscopy,mask,3,Microscopy,1.0
+forged,10645,Blots,mask,1,Blots,1.0
+forged,1070,Microscopy,mask,1,Microscopy,0.999
+forged,10703,Microscopy,mask,1,Microscopy,1.0
+forged,10730,Body Imaging,mask,2,Body Imaging;Graphs,0.853
+forged,10742,Microscopy,mask,1,Microscopy,1.0
+forged,10799,Body Imaging,mask,4,Body Imaging,0.493
+forged,10838,Blots,mask,1,Blots,1.0
+forged,10855,Microscopy,mask,3,Microscopy,1.0
+forged,10878,Blots,mask,1,Blots,1.0
+forged,10884,Blots,mask,1,Blots,1.0
+forged,10886,Body Imaging,mask,3,Body Imaging;Graphs,1.0
+forged,10911,Microscopy,mask,1,Microscopy,1.0
+forged,10939,Microscopy,area,4,Microscopy,0.0
+forged,10951,Blots,mask,1,Blots,0.987
+forged,1097,Microscopy,mask,9,Microscopy,1.0
+forged,10980,Microscopy,mask,1,Microscopy,1.0
+forged,10986,Microscopy,mask,1,Microscopy,1.0
+forged,10991,Microscopy,mask,1,Microscopy,1.0
+forged,10992,Body Imaging,mask,1,Body Imaging,1.0
+forged,1101,Microscopy,mask,1,Microscopy,1.0
+forged,11010,Microscopy,mask,1,Microscopy,1.0
+forged,11014,Microscopy,mask,1,Microscopy,1.0
+forged,11128,Blots,mask,1,Blots,1.0
+forged,11130,Microscopy,mask,1,Microscopy,1.0
+forged,11206,Body Imaging,mask,2,Body Imaging,0.999
+forged,11223,Microscopy,mask,1,Microscopy,1.0
+forged,11240,Blots,mask,1,Blots,1.0
+forged,11249,Microscopy,mask,1,Microscopy,1.0
+forged,11277,Microscopy,mask,1,Microscopy,1.0
+forged,11296,Microscopy,mask,1,Microscopy,1.0
+forged,11299,Blots,mask,1,Blots,1.0
+forged,11307,Microscopy,mask,1,Microscopy,1.0
+forged,11333,Microscopy,mask,1,Microscopy,1.0
+forged,11356,Microscopy,mask,1,Microscopy,1.0
+forged,1137,Microscopy,mask,1,Microscopy,1.0
+forged,11392,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,11399,Microscopy,mask,1,Microscopy,1.0
+forged,11426,Body Imaging,mask,1,Body Imaging,1.0
+forged,1143,Microscopy,mask,1,Microscopy,1.0
+forged,11440,Microscopy,mask,1,Microscopy,1.0
+forged,11446,Microscopy,mask,1,Microscopy,1.0
+forged,11501,Blots,mask,1,Blots,1.0
+forged,11508,Microscopy,mask,1,Microscopy,1.0
+forged,11513,Microscopy,mask,1,Microscopy,1.0
+forged,11547,Microscopy,mask,1,Microscopy,1.0
+forged,11548,Body Imaging,mask,7,Body Imaging;Graphs,1.0
+forged,11639,Body Imaging,mask,4,Body Imaging;Microscopy,1.0
+forged,11646,Microscopy,mask,21,Microscopy,0.971
+forged,11662,Microscopy,mask,1,Microscopy,1.0
+forged,11698,Blots,mask,1,Blots,1.0
+forged,11708,Blots,mask,1,Blots,1.0
+forged,1173,Microscopy,mask,1,Microscopy,1.0
+forged,1174,Microscopy,mask,1,Microscopy,1.0
+forged,11740,Microscopy,mask,1,Microscopy,1.0
+forged,11747,Microscopy,mask,1,Microscopy,1.0
+forged,11761,Microscopy,mask,2,Body Imaging;Microscopy,1.0
+forged,11764,Microscopy,mask,1,Microscopy,1.0
+forged,11785,Microscopy,mask,1,Microscopy,1.0
+forged,11854,Microscopy,mask,1,Microscopy,1.0
+forged,11904,Microscopy,mask,1,Microscopy,1.0
+forged,11910,Body Imaging,mask,8,Body Imaging;Graphs,1.0
+forged,11919,Blots,mask,1,Blots,0.984
+forged,11942,Microscopy,mask,1,Microscopy,1.0
+forged,11954,Microscopy,mask,1,Microscopy,1.0
+forged,11964,Microscopy,mask,2,Microscopy,0.348
+forged,11985,Body Imaging,mask,2,Body Imaging,1.0
+forged,1201,Microscopy,mask,1,Microscopy,1.0
+forged,12019,Microscopy,mask,1,Microscopy,1.0
+forged,12025,Microscopy,mask,1,Microscopy,1.0
+forged,12046,Microscopy,mask,1,Microscopy,1.0
+forged,12051,Microscopy,mask,1,Microscopy,1.0
+forged,12063,Microscopy,mask,1,Microscopy,1.0
+forged,12064,Blots,mask,1,Blots,0.993
+forged,12073,Microscopy,mask,1,Microscopy,1.0
+forged,12115,Microscopy,mask,1,Microscopy,0.992
+forged,12124,Microscopy,mask,1,Microscopy,1.0
+forged,12143,Microscopy,mask,1,Microscopy,1.0
+forged,12149,Microscopy,mask,1,Microscopy,1.0
+forged,12150,Microscopy,mask,1,Microscopy,1.0
+forged,12184,Microscopy,mask,1,Microscopy,1.0
+forged,12244,Body Imaging,mask,1,Body Imaging,0.998
+forged,1225,Blots,mask,1,Blots,1.0
+forged,12261,Microscopy,mask,1,Microscopy,1.0
+forged,12262,Microscopy,mask,1,Microscopy,1.0
+forged,12265,Microscopy,mask,1,Microscopy,1.0
+forged,12289,Body Imaging,mask,3,Body Imaging;Graphs,0.324
+forged,12298,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,12299,Microscopy,mask,1,Microscopy,1.0
+forged,12300,Microscopy,mask,1,Microscopy,1.0
+forged,12307,Blots,mask,1,Blots,1.0
+forged,12335,Microscopy,mask,1,Microscopy,1.0
+forged,12355,Body Imaging,mask,7,Body Imaging,0.999
+forged,12363,Microscopy,mask,1,Microscopy,1.0
+forged,12364,Blots,mask,1,Blots,1.0
+forged,12366,Microscopy,mask,1,Microscopy,1.0
+forged,1237,Blots,mask,1,Blots,0.993
+forged,12412,Microscopy,mask,1,Microscopy,1.0
+forged,12427,Blots,mask,1,Blots,0.985
+forged,12446,Microscopy,mask,1,Microscopy,1.0
+forged,12459,Microscopy,mask,1,Microscopy,1.0
+forged,12505,Microscopy,mask,1,Microscopy,1.0
+forged,1251,Blots,mask,1,Blots,1.0
+forged,12557,none,none,0,,0.0
+forged,12572,Microscopy,mask,1,Microscopy,1.0
+forged,12574,Body Imaging,mask,2,Body Imaging;Microscopy,0.999
+forged,12589,Microscopy,mask,1,Microscopy,1.0
+forged,12612,Body Imaging,mask,1,Body Imaging,1.0
+forged,12615,Microscopy,mask,1,Microscopy,1.0
+forged,12629,Microscopy,mask,1,Microscopy,1.0
+forged,1270,Microscopy,mask,1,Microscopy,1.0
+forged,12705,Microscopy,mask,1,Microscopy,1.0
+forged,1272,Microscopy,mask,1,Microscopy,1.0
+forged,12747,Body Imaging,mask,1,Body Imaging,1.0
+forged,12793,Body Imaging,mask,1,Body Imaging,1.0
+forged,12798,Microscopy,mask,2,Microscopy,1.0
+forged,12809,Blots,mask,1,Blots,1.0
+forged,12823,Microscopy,mask,5,Microscopy,1.0
+forged,12862,Microscopy,mask,1,Microscopy,1.0
+forged,12879,Microscopy,mask,3,Microscopy,1.0
+forged,12908,Microscopy,mask,1,Microscopy,0.995
+forged,12912,Microscopy,mask,1,Microscopy,1.0
+forged,12919,Microscopy,mask,1,Microscopy,1.0
+forged,12924,Graphs,mask,2,Body Imaging;Graphs,0.995
+forged,13020,Blots,mask,1,Blots,1.0
+forged,13072,Microscopy,mask,1,Microscopy,1.0
+forged,13108,Microscopy,mask,1,Microscopy,1.0
+forged,13115,Microscopy,mask,1,Microscopy,1.0
+forged,13121,Blots,mask,1,Blots,1.0
+forged,13123,Microscopy,mask,1,Microscopy,1.0
+forged,13187,Microscopy,mask,1,Microscopy,1.0
+forged,13219,Microscopy,mask,1,Microscopy,1.0
+forged,13254,Microscopy,mask,1,Microscopy,1.0
+forged,13315,Microscopy,mask,1,Microscopy,1.0
+forged,13333,Microscopy,mask,1,Microscopy,1.0
+forged,13361,Microscopy,mask,1,Microscopy,1.0
+forged,13415,Microscopy,mask,2,Microscopy,1.0
+forged,13426,Blots,mask,1,Blots,1.0
+forged,13444,Body Imaging,mask,1,Body Imaging,1.0
+forged,13451,Microscopy,mask,1,Microscopy,1.0
+forged,13510,Microscopy,mask,1,Microscopy,1.0
+forged,13511,Body Imaging,mask,1,Body Imaging,1.0
+forged,13516,Body Imaging,mask,1,Body Imaging,1.0
+forged,1353,Blots,mask,1,Blots,1.0
+forged,13603,Microscopy,mask,1,Microscopy,1.0
+forged,13611,Microscopy,mask,1,Microscopy,1.0
+forged,13624,Microscopy,mask,1,Microscopy,1.0
+forged,13635,Blots,mask,1,Blots,0.97
+forged,13665,Microscopy,mask,1,Microscopy,1.0
+forged,13670,Body Imaging,mask,5,Body Imaging;Microscopy,0.481
+forged,13677,Microscopy,mask,1,Microscopy,0.99
+forged,13725,Microscopy,mask,1,Microscopy,1.0
+forged,13732,Microscopy,mask,1,Microscopy,1.0
+forged,13734,Microscopy,mask,1,Microscopy,1.0
+forged,13742,Microscopy,mask,1,Microscopy,1.0
+forged,13744,Microscopy,mask,1,Microscopy,1.0
+forged,13785,Microscopy,mask,1,Microscopy,1.0
+forged,13799,Blots,mask,1,Blots,0.995
+forged,13813,Body Imaging,mask,3,Body Imaging;Graphs,1.0
+forged,13839,Microscopy,mask,1,Microscopy,0.998
+forged,13846,Blots,mask,1,Blots,1.0
+forged,1385,Microscopy,mask,1,Microscopy,1.0
+forged,1386,Body Imaging,mask,1,Body Imaging,1.0
+forged,13863,Microscopy,mask,1,Microscopy,1.0
+forged,13893,Blots,mask,1,Blots,1.0
+forged,13898,Microscopy,mask,1,Microscopy,1.0
+forged,13905,Microscopy,mask,1,Microscopy,1.0
+forged,13920,Microscopy,mask,1,Microscopy,1.0
+forged,13957,Microscopy,mask,1,Microscopy,1.0
+forged,13971,Microscopy,mask,1,Microscopy,1.0
+forged,13986,Microscopy,mask,1,Microscopy,1.0
+forged,13989,Microscopy,mask,1,Microscopy,1.0
+forged,14010,Microscopy,mask,1,Microscopy,1.0
+forged,14048,Body Imaging,mask,9,Body Imaging;Microscopy,0.996
+forged,14070,Microscopy,mask,1,Microscopy,1.0
+forged,14087,Microscopy,mask,1,Microscopy,1.0
+forged,14094,Microscopy,mask,1,Microscopy,1.0
+forged,14101,Microscopy,mask,1,Microscopy,1.0
+forged,14111,Microscopy,mask,1,Microscopy,1.0
+forged,14114,Body Imaging,mask,1,Body Imaging,1.0
+forged,14123,Body Imaging,mask,4,Body Imaging;Graphs,1.0
+forged,14153,Microscopy,mask,1,Microscopy,1.0
+forged,14170,Microscopy,mask,1,Microscopy,1.0
+forged,14184,Microscopy,mask,1,Microscopy,1.0
+forged,1419,Microscopy,mask,1,Microscopy,1.0
+forged,14203,Microscopy,mask,1,Microscopy,1.0
+forged,14205,Blots,mask,1,Blots,0.994
+forged,14227,Microscopy,mask,1,Microscopy,1.0
+forged,14324,Microscopy,mask,1,Microscopy,1.0
+forged,14331,Microscopy,mask,1,Microscopy,1.0
+forged,14371,Microscopy,mask,1,Microscopy,1.0
+forged,14389,Blots,mask,1,Blots,1.0
+forged,14401,Blots,mask,1,Blots,1.0
+forged,14403,Microscopy,mask,1,Microscopy,1.0
+forged,14436,Microscopy,mask,1,Microscopy,1.0
+forged,14462,Microscopy,mask,1,Microscopy,1.0
+forged,14478,Microscopy,mask,1,Microscopy,1.0
+forged,14498,Microscopy,mask,1,Microscopy,1.0
+forged,14506,Microscopy,mask,1,Microscopy,1.0
+forged,14594,Microscopy,mask,1,Microscopy,1.0
+forged,14605,Microscopy,mask,1,Microscopy,1.0
+forged,14608,Microscopy,mask,1,Microscopy,1.0
+forged,14618,Microscopy,mask,1,Microscopy,1.0
+forged,14622,Body Imaging,mask,1,Body Imaging,0.936
+forged,14624,Microscopy,mask,4,Microscopy,1.0
+forged,14664,Microscopy,mask,1,Microscopy,0.999
+forged,1467,Microscopy,mask,1,Microscopy,1.0
+forged,14690,Body Imaging,mask,3,Body Imaging,1.0
+forged,14692,Microscopy,mask,1,Microscopy,1.0
+forged,14700,Microscopy,mask,1,Microscopy,1.0
+forged,14710,Microscopy,mask,1,Microscopy,1.0
+forged,14716,Microscopy,mask,1,Microscopy,1.0
+forged,14720,Microscopy,mask,4,Microscopy,1.0
+forged,14747,Microscopy,mask,1,Microscopy,1.0
+forged,14770,Blots,mask,1,Blots,1.0
+forged,14776,Blots,mask,1,Blots,1.0
+forged,1482,Microscopy,mask,1,Microscopy,1.0
+forged,14820,Blots,mask,1,Blots,1.0
+forged,14822,Microscopy,mask,1,Microscopy,1.0
+forged,14829,Microscopy,mask,1,Microscopy,1.0
+forged,14868,Microscopy,mask,1,Microscopy,1.0
+forged,14891,Blots,mask,1,Blots,1.0
+forged,14898,Body Imaging,mask,1,Body Imaging,0.995
+forged,14908,Microscopy,mask,1,Microscopy,1.0
+forged,14930,Microscopy,mask,1,Microscopy,1.0
+forged,14944,Blots,mask,1,Blots,1.0
+forged,14954,Microscopy,mask,1,Microscopy,1.0
+forged,14959,Microscopy,mask,1,Microscopy,0.992
+forged,14965,Body Imaging,mask,1,Body Imaging,1.0
+forged,14988,Microscopy,mask,1,Microscopy,1.0
+forged,14999,Microscopy,mask,1,Microscopy,1.0
+forged,15010,Microscopy,mask,1,Microscopy,1.0
+forged,15035,Microscopy,mask,1,Microscopy,1.0
+forged,15056,Microscopy,mask,1,Microscopy,1.0
+forged,15061,Microscopy,mask,1,Microscopy,1.0
+forged,15120,Microscopy,mask,4,Microscopy,0.997
+forged,15171,Microscopy,mask,9,Body Imaging;Microscopy,1.0
+forged,15176,Microscopy,mask,1,Microscopy,1.0
+forged,15205,Blots,mask,1,Blots,1.0
+forged,15269,Body Imaging,mask,3,Body Imaging,0.509
+forged,15285,Body Imaging,mask,6,Body Imaging;Microscopy,1.0
+forged,15295,Body Imaging,mask,4,Body Imaging;Graphs;Microscopy,1.0
+forged,15314,Microscopy,mask,1,Microscopy,1.0
+forged,15321,Microscopy,mask,1,Microscopy,1.0
+forged,1536,Blots,mask,1,Blots,1.0
+forged,15369,Microscopy,mask,3,Microscopy,1.0
+forged,1538,Body Imaging,mask,2,Body Imaging;Graphs,0.999
+forged,15389,Microscopy,mask,1,Microscopy,1.0
+forged,15409,Microscopy,mask,1,Microscopy,1.0
+forged,15426,Microscopy,mask,3,Microscopy,1.0
+forged,15453,Body Imaging,mask,4,Body Imaging,1.0
+forged,15463,Microscopy,mask,1,Microscopy,1.0
+forged,15566,Microscopy,mask,1,Microscopy,1.0
+forged,15573,Microscopy,mask,1,Microscopy,1.0
+forged,15579,Microscopy,mask,1,Microscopy,1.0
+forged,156,Microscopy,mask,1,Microscopy,1.0
+forged,15657,Microscopy,mask,1,Microscopy,1.0
+forged,15660,Microscopy,mask,1,Microscopy,1.0
+forged,15670,Body Imaging,mask,1,Body Imaging,0.982
+forged,15733,Body Imaging,mask,1,Body Imaging,0.999
+forged,1574,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,1575,Microscopy,mask,1,Microscopy,1.0
+forged,15767,Blots,mask,1,Blots,1.0
+forged,15784,Microscopy,mask,1,Microscopy,1.0
+forged,1580,Microscopy,mask,1,Microscopy,1.0
+forged,15813,Microscopy,mask,1,Microscopy,1.0
+forged,15815,Microscopy,mask,1,Microscopy,1.0
+forged,15816,Microscopy,mask,1,Microscopy,1.0
+forged,15835,Blots,mask,2,Blots;Microscopy,1.0
+forged,15860,Microscopy,mask,2,Microscopy,1.0
+forged,1587,Microscopy,mask,1,Microscopy,1.0
+forged,15879,Microscopy,mask,3,Microscopy,1.0
+forged,15886,Microscopy,mask,1,Microscopy,1.0
+forged,15913,Microscopy,mask,1,Microscopy,1.0
+forged,15940,Blots,mask,1,Blots,1.0
+forged,15987,Microscopy,mask,1,Microscopy,1.0
+forged,15994,Graphs,mask,1,Graphs,1.0
+forged,16037,Microscopy,mask,1,Microscopy,1.0
+forged,16061,Body Imaging,mask,2,Body Imaging;Graphs,0.999
+forged,1608,Microscopy,mask,1,Microscopy,1.0
+forged,16097,Microscopy,mask,1,Microscopy,1.0
+forged,16108,Body Imaging,mask,2,Body Imaging,1.0
+forged,16112,Blots,mask,2,Blots,0.983
+forged,16130,Graphs,mask,2,Body Imaging;Graphs,1.0
+forged,16161,Microscopy,mask,1,Microscopy,1.0
+forged,16184,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,16191,Blots,mask,1,Blots,1.0
+forged,16205,Microscopy,mask,1,Microscopy,1.0
+forged,16215,Body Imaging,mask,5,Body Imaging,0.998
+forged,16219,Body Imaging,mask,4,Body Imaging;Graphs;Microscopy,1.0
+forged,16221,Microscopy,mask,1,Microscopy,1.0
+forged,16227,Microscopy,mask,1,Microscopy,0.991
+forged,1625,Microscopy,mask,1,Microscopy,1.0
+forged,16293,Body Imaging,mask,1,Body Imaging,1.0
+forged,16294,Blots,mask,1,Blots,1.0
+forged,16336,Blots,mask,1,Blots,1.0
+forged,16357,Microscopy,mask,1,Microscopy,1.0
+forged,16359,Microscopy,mask,1,Microscopy,1.0
+forged,1638,Microscopy,mask,1,Microscopy,1.0
+forged,1641,Microscopy,mask,1,Microscopy,1.0
+forged,16410,Microscopy,mask,1,Microscopy,1.0
+forged,16442,Blots,mask,1,Blots,0.991
+forged,16485,Blots,mask,1,Blots,1.0
+forged,16526,Microscopy,mask,1,Microscopy,1.0
+forged,16534,Microscopy,mask,1,Microscopy,1.0
+forged,16538,Microscopy,mask,1,Microscopy,1.0
+forged,16550,Microscopy,mask,1,Microscopy,0.996
+forged,16566,Microscopy,mask,1,Microscopy,1.0
+forged,16579,Microscopy,mask,1,Microscopy,1.0
+forged,16590,Microscopy,mask,1,Microscopy,1.0
+forged,1661,Microscopy,mask,1,Microscopy,1.0
+forged,16612,Blots,mask,1,Blots,1.0
+forged,16614,Microscopy,mask,1,Microscopy,1.0
+forged,16630,Blots,mask,1,Blots,1.0
+forged,16647,Body Imaging,mask,3,Body Imaging;Graphs,0.88
+forged,16648,Microscopy,mask,8,Microscopy,1.0
+forged,16649,Microscopy,mask,1,Microscopy,1.0
+forged,16667,Microscopy,mask,1,Microscopy,1.0
+forged,16683,Microscopy,mask,1,Microscopy,1.0
+forged,16703,Microscopy,mask,1,Microscopy,1.0
+forged,16729,Microscopy,mask,1,Microscopy,1.0
+forged,16751,Microscopy,mask,1,Microscopy,1.0
+forged,16855,Blots,mask,1,Blots,1.0
+forged,1686,Blots,mask,1,Blots,0.995
+forged,16866,Microscopy,mask,4,Microscopy,1.0
+forged,16884,Microscopy,mask,1,Microscopy,0.973
+forged,16897,Microscopy,mask,1,Microscopy,1.0
+forged,16939,Body Imaging,mask,3,Body Imaging,1.0
+forged,16951,Microscopy,mask,1,Microscopy,1.0
+forged,16960,Body Imaging,mask,5,Body Imaging;Graphs,0.475
+forged,16974,Microscopy,mask,1,Microscopy,1.0
+forged,17008,Blots,mask,1,Blots,1.0
+forged,17030,Body Imaging,mask,1,Body Imaging,1.0
+forged,17052,Blots,mask,1,Blots,1.0
+forged,17071,Microscopy,mask,1,Microscopy,1.0
+forged,17124,Microscopy,mask,1,Microscopy,1.0
+forged,17128,Body Imaging,mask,2,Body Imaging,1.0
+forged,17134,Microscopy,mask,1,Microscopy,1.0
+forged,17218,Microscopy,mask,2,Microscopy,1.0
+forged,17245,Microscopy,mask,1,Microscopy,1.0
+forged,17249,Microscopy,mask,1,Microscopy,0.973
+forged,17268,Blots,mask,1,Blots,1.0
+forged,17279,Microscopy,mask,1,Microscopy,1.0
+forged,17280,Microscopy,mask,3,Microscopy,1.0
+forged,17298,Microscopy,mask,1,Microscopy,1.0
+forged,17324,Body Imaging,mask,5,Body Imaging,0.999
+forged,17334,Microscopy,mask,1,Microscopy,1.0
+forged,17388,Blots,mask,1,Blots,0.981
+forged,17418,Microscopy,mask,4,Microscopy,1.0
+forged,17493,Blots,mask,1,Blots,1.0
+forged,17528,Body Imaging,mask,3,Body Imaging,0.999
+forged,17555,Microscopy,mask,1,Microscopy,1.0
+forged,17583,Blots,mask,1,Blots,0.973
+forged,176,Blots,mask,1,Blots,0.993
+forged,17625,Blots,mask,1,Blots,1.0
+forged,17648,Microscopy,mask,1,Microscopy,1.0
+forged,17651,Blots,mask,1,Blots,1.0
+forged,17660,Microscopy,mask,1,Microscopy,1.0
+forged,17695,Microscopy,mask,1,Microscopy,1.0
+forged,17754,Microscopy,mask,2,Body Imaging;Microscopy,1.0
+forged,17756,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,17815,Microscopy,mask,1,Microscopy,1.0
+forged,17826,Microscopy,mask,1,Microscopy,1.0
+forged,1783,Microscopy,mask,1,Microscopy,1.0
+forged,17846,Blots,mask,1,Blots,1.0
+forged,17878,Microscopy,mask,1,Microscopy,0.998
+forged,17904,Microscopy,mask,1,Microscopy,0.998
+forged,17923,Blots,mask,1,Blots,1.0
+forged,17980,Microscopy,mask,1,Microscopy,1.0
+forged,18000,Blots,mask,1,Blots,1.0
+forged,18017,Body Imaging,mask,5,Body Imaging;Graphs,0.997
+forged,18037,Blots,mask,1,Blots,0.993
+forged,1804,Blots,mask,1,Blots,0.989
+forged,18054,Microscopy,mask,1,Microscopy,1.0
+forged,1813,Microscopy,mask,1,Microscopy,1.0
+forged,18153,Microscopy,mask,1,Microscopy,1.0
+forged,18316,Microscopy,mask,1,Microscopy,1.0
+forged,18362,Body Imaging,mask,2,Body Imaging;Microscopy,0.997
+forged,18425,Microscopy,mask,2,Microscopy,1.0
+forged,18440,Body Imaging,mask,4,Body Imaging;Graphs,0.998
+forged,18462,Microscopy,mask,1,Microscopy,1.0
+forged,18463,Microscopy,mask,1,Microscopy,1.0
+forged,18472,Microscopy,mask,1,Microscopy,1.0
+forged,18554,Microscopy,mask,1,Microscopy,1.0
+forged,1856,Blots,mask,2,Blots,1.0
+forged,1859,Microscopy,area,3,Microscopy,0.0
+forged,18617,Body Imaging,mask,2,Body Imaging,1.0
+forged,18679,Microscopy,mask,1,Microscopy,1.0
+forged,18696,Microscopy,mask,6,Microscopy,1.0
+forged,187,Microscopy,mask,1,Microscopy,0.995
+forged,1873,Body Imaging,mask,5,Body Imaging;Graphs,0.868
+forged,18760,Blots,mask,1,Blots,0.978
+forged,18781,Microscopy,mask,1,Microscopy,1.0
+forged,18788,Microscopy,mask,1,Microscopy,1.0
+forged,1879,Graphs,mask,1,Graphs,0.998
+forged,18877,Microscopy,mask,1,Microscopy,1.0
+forged,18929,Microscopy,mask,1,Microscopy,1.0
+forged,18940,Body Imaging,mask,5,Body Imaging;Graphs,0.522
+forged,18971,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,18995,Body Imaging,mask,1,Body Imaging,1.0
+forged,19054,Blots,mask,1,Blots,0.988
+forged,19074,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,19116,Microscopy,mask,1,Microscopy,1.0
+forged,19121,Microscopy,mask,1,Microscopy,1.0
+forged,19130,Microscopy,mask,1,Microscopy,1.0
+forged,19148,Blots,mask,1,Blots,0.966
+forged,19162,Blots,mask,1,Blots,1.0
+forged,19193,Microscopy,mask,7,Microscopy,1.0
+forged,19253,Microscopy,mask,1,Microscopy,1.0
+forged,19281,Blots,mask,1,Blots,1.0
+forged,19294,Microscopy,mask,1,Microscopy,1.0
+forged,19331,Microscopy,mask,1,Microscopy,1.0
+forged,19332,Microscopy,mask,1,Microscopy,1.0
+forged,19361,Microscopy,mask,1,Microscopy,0.997
+forged,1940,Blots,mask,1,Blots,1.0
+forged,19467,Graphs,mask,1,Graphs,0.999
+forged,19512,Blots,mask,1,Blots,1.0
+forged,19554,Microscopy,mask,1,Microscopy,1.0
+forged,19563,Blots,mask,1,Blots,1.0
+forged,19593,Blots,mask,1,Blots,0.991
+forged,19620,Microscopy,mask,1,Microscopy,1.0
+forged,19621,Microscopy,mask,1,Microscopy,1.0
+forged,19622,Microscopy,mask,6,Microscopy,1.0
+forged,19627,Microscopy,mask,1,Microscopy,1.0
+forged,19633,Body Imaging,mask,2,Body Imaging;Graphs,0.985
+forged,19668,Microscopy,mask,1,Microscopy,1.0
+forged,19684,Graphs,mask,3,Body Imaging;Graphs,1.0
+forged,19709,Microscopy,mask,1,Microscopy,1.0
+forged,19718,Blots,mask,1,Blots,1.0
+forged,19728,Microscopy,mask,1,Microscopy,1.0
+forged,19734,Body Imaging,mask,3,Body Imaging,0.492
+forged,19775,Microscopy,mask,1,Microscopy,1.0
+forged,19777,Microscopy,mask,1,Microscopy,1.0
+forged,19844,Body Imaging,mask,3,Body Imaging,1.0
+forged,19847,Microscopy,mask,1,Microscopy,1.0
+forged,19895,Microscopy,mask,1,Microscopy,1.0
+forged,19915,Body Imaging,mask,3,Body Imaging,0.999
+forged,19933,Blots,mask,1,Blots,1.0
+forged,19935,Microscopy,mask,1,Microscopy,1.0
+forged,19953,Body Imaging,mask,3,Body Imaging;Microscopy,0.52
+forged,19964,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,19981,Blots,mask,1,Blots,1.0
+forged,19986,Microscopy,mask,1,Microscopy,1.0
+forged,19993,Microscopy,mask,1,Microscopy,1.0
+forged,20007,Microscopy,mask,1,Microscopy,1.0
+forged,20009,Graphs,mask,4,Body Imaging;Graphs,1.0
+forged,20010,Microscopy,mask,1,Microscopy,1.0
+forged,20096,Microscopy,mask,1,Microscopy,1.0
+forged,20097,Microscopy,mask,1,Microscopy,1.0
+forged,20103,Microscopy,mask,1,Microscopy,1.0
+forged,20144,Microscopy,mask,1,Microscopy,1.0
+forged,20151,Microscopy,mask,1,Microscopy,1.0
+forged,20193,Microscopy,mask,1,Microscopy,1.0
+forged,20194,Microscopy,mask,1,Microscopy,1.0
+forged,20270,Microscopy,mask,1,Microscopy,1.0
+forged,20282,Microscopy,mask,1,Microscopy,1.0
+forged,2032,Body Imaging,mask,3,Body Imaging,0.492
+forged,20342,Body Imaging,mask,2,Body Imaging;Graphs,0.995
+forged,20343,Microscopy,mask,1,Microscopy,1.0
+forged,20379,Microscopy,mask,1,Microscopy,1.0
+forged,20391,Microscopy,mask,1,Microscopy,1.0
+forged,20401,Body Imaging,mask,3,Body Imaging;Microscopy,0.751
+forged,20409,Microscopy,mask,1,Microscopy,1.0
+forged,20437,Microscopy,mask,1,Microscopy,1.0
+forged,20490,Microscopy,mask,1,Microscopy,1.0
+forged,20498,Microscopy,mask,1,Microscopy,1.0
+forged,2050,Microscopy,mask,1,Microscopy,1.0
+forged,20507,Blots,mask,1,Blots,1.0
+forged,20518,Microscopy,mask,1,Microscopy,1.0
+forged,2053,Microscopy,mask,1,Microscopy,1.0
+forged,20541,Microscopy,mask,1,Microscopy,1.0
+forged,20569,Microscopy,mask,1,Microscopy,1.0
+forged,20577,Microscopy,mask,1,Microscopy,1.0
+forged,20578,Microscopy,mask,1,Microscopy,1.0
+forged,20587,Body Imaging,mask,6,Body Imaging;Graphs,0.999
+forged,20619,Blots,mask,1,Blots,1.0
+forged,2064,Blots,mask,1,Blots,1.0
+forged,20645,Microscopy,mask,1,Microscopy,1.0
+forged,20662,Microscopy,mask,1,Microscopy,1.0
+forged,20666,Microscopy,mask,1,Microscopy,0.998
+forged,20736,Microscopy,mask,1,Microscopy,1.0
+forged,20749,Microscopy,mask,1,Microscopy,1.0
+forged,20751,Microscopy,mask,1,Microscopy,1.0
+forged,20752,Microscopy,mask,1,Microscopy,1.0
+forged,20753,Blots,mask,1,Blots,1.0
+forged,20755,Microscopy,mask,1,Microscopy,1.0
+forged,20764,Microscopy,mask,1,Microscopy,1.0
+forged,20768,Blots,mask,1,Blots,1.0
+forged,20795,Body Imaging,mask,1,Body Imaging,0.904
+forged,20800,Blots,mask,1,Blots,1.0
+forged,20816,Microscopy,mask,1,Microscopy,1.0
+forged,20819,Microscopy,mask,3,Microscopy,1.0
+forged,20828,Blots,mask,1,Blots,1.0
+forged,2083,Body Imaging,mask,3,Body Imaging,1.0
+forged,20833,Blots,mask,1,Blots,1.0
+forged,20850,Microscopy,mask,1,Microscopy,1.0
+forged,2087,Microscopy,mask,1,Microscopy,1.0
+forged,20882,Blots,mask,1,Blots,1.0
+forged,209,Blots,mask,1,Blots,0.995
+forged,20920,Microscopy,mask,1,Microscopy,1.0
+forged,20985,Blots,mask,1,Blots,1.0
+forged,210,Body Imaging,mask,6,Body Imaging;Graphs,1.0
+forged,21004,Microscopy,mask,1,Microscopy,1.0
+forged,21014,Microscopy,mask,1,Microscopy,1.0
+forged,21034,Blots,mask,1,Blots,1.0
+forged,21095,Microscopy,mask,1,Microscopy,1.0
+forged,21134,Microscopy,mask,1,Microscopy,1.0
+forged,21156,Blots,mask,1,Blots,1.0
+forged,21202,Blots,mask,1,Blots,1.0
+forged,21204,Microscopy,mask,1,Microscopy,1.0
+forged,2121,Microscopy,mask,1,Microscopy,1.0
+forged,21213,Microscopy,mask,1,Microscopy,1.0
+forged,21239,Microscopy,mask,1,Microscopy,1.0
+forged,21253,Body Imaging,mask,1,Body Imaging,1.0
+forged,21264,Body Imaging,mask,3,Body Imaging,0.999
+forged,21266,Microscopy,mask,1,Microscopy,1.0
+forged,21331,Microscopy,mask,1,Microscopy,1.0
+forged,21375,Microscopy,mask,1,Microscopy,1.0
+forged,21525,Microscopy,mask,2,Microscopy,1.0
+forged,21540,Microscopy,mask,1,Microscopy,1.0
+forged,21562,Blots,mask,1,Blots,1.0
+forged,21603,Microscopy,mask,1,Microscopy,1.0
+forged,21631,Microscopy,mask,1,Microscopy,1.0
+forged,21633,Blots,mask,1,Blots,1.0
+forged,2164,Microscopy,mask,1,Microscopy,1.0
+forged,21640,Microscopy,mask,1,Microscopy,1.0
+forged,21652,Blots,mask,1,Blots,1.0
+forged,21671,Microscopy,mask,1,Microscopy,1.0
+forged,21706,Body Imaging,mask,3,Body Imaging,1.0
+forged,21728,Blots,mask,1,Blots,0.977
+forged,21734,Microscopy,mask,1,Microscopy,1.0
+forged,21740,Blots,mask,1,Blots,1.0
+forged,21747,Microscopy,mask,1,Microscopy,1.0
+forged,21765,Microscopy,mask,1,Microscopy,1.0
+forged,2177,Microscopy,mask,1,Microscopy,1.0
+forged,21770,Blots,mask,1,Blots,1.0
+forged,21773,Body Imaging,mask,2,Body Imaging;Graphs,0.997
+forged,21798,Microscopy,mask,1,Microscopy,1.0
+forged,21809,Microscopy,mask,1,Microscopy,1.0
+forged,21851,Microscopy,mask,2,Microscopy,1.0
+forged,21892,Body Imaging,mask,3,Body Imaging;Graphs,1.0
+forged,21933,Microscopy,mask,1,Microscopy,1.0
+forged,21946,Blots,mask,1,Blots,1.0
+forged,21968,Microscopy,mask,1,Microscopy,1.0
+forged,22046,Microscopy,mask,1,Microscopy,1.0
+forged,22052,Body Imaging,mask,6,Body Imaging,1.0
+forged,22066,Body Imaging,mask,2,Body Imaging,0.925
+forged,22078,Microscopy,mask,1,Microscopy,1.0
+forged,22141,Microscopy,mask,1,Microscopy,1.0
+forged,22155,Body Imaging,mask,5,Body Imaging;Graphs;Microscopy,1.0
+forged,22158,Microscopy,mask,1,Microscopy,1.0
+forged,22164,Microscopy,mask,4,Microscopy,1.0
+forged,22173,Microscopy,mask,2,Microscopy,1.0
+forged,22175,Microscopy,mask,1,Microscopy,1.0
+forged,22182,Microscopy,mask,2,Microscopy,1.0
+forged,22216,Microscopy,mask,3,Body Imaging;Microscopy,1.0
+forged,22224,Microscopy,mask,1,Microscopy,1.0
+forged,22226,Microscopy,mask,1,Microscopy,1.0
+forged,22274,Microscopy,mask,1,Microscopy,1.0
+forged,2228,Microscopy,mask,1,Microscopy,1.0
+forged,22293,Microscopy,mask,1,Microscopy,1.0
+forged,22298,Graphs,mask,1,Graphs,0.998
+forged,2230,Blots,mask,1,Blots,1.0
+forged,22323,Blots,mask,1,Blots,0.99
+forged,22337,Microscopy,mask,1,Microscopy,1.0
+forged,22346,Microscopy,mask,1,Microscopy,1.0
+forged,22372,Blots,mask,1,Blots,1.0
+forged,22416,Microscopy,mask,1,Microscopy,1.0
+forged,22430,Microscopy,mask,1,Microscopy,1.0
+forged,22456,Blots,mask,1,Blots,0.974
+forged,2249,Microscopy,mask,1,Microscopy,1.0
+forged,22507,Microscopy,mask,1,Microscopy,1.0
+forged,22524,Microscopy,mask,1,Microscopy,0.997
+forged,22556,Microscopy,mask,1,Microscopy,1.0
+forged,22565,Microscopy,mask,1,Microscopy,1.0
+forged,22638,Blots,mask,1,Blots,1.0
+forged,22666,Microscopy,mask,1,Microscopy,1.0
+forged,22719,Microscopy,mask,1,Microscopy,1.0
+forged,22732,Blots,mask,1,Blots,0.989
+forged,22739,Microscopy,mask,1,Microscopy,1.0
+forged,2275,Microscopy,mask,1,Microscopy,1.0
+forged,22751,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,2276,Blots,mask,1,Blots,1.0
+forged,22787,Microscopy,mask,1,Microscopy,0.974
+forged,22797,Microscopy,mask,1,Microscopy,0.981
+forged,22821,Body Imaging,mask,1,Body Imaging,1.0
+forged,22834,Microscopy,mask,1,Microscopy,1.0
+forged,22842,Microscopy,mask,1,Microscopy,0.978
+forged,22864,Microscopy,mask,1,Microscopy,1.0
+forged,2290,Blots,mask,1,Blots,0.991
+forged,22901,Blots,mask,1,Blots,1.0
+forged,22918,Body Imaging,mask,2,Body Imaging,0.515
+forged,2293,Microscopy,mask,1,Microscopy,1.0
+forged,22933,Microscopy,mask,1,Microscopy,1.0
+forged,22951,Microscopy,mask,1,Microscopy,1.0
+forged,22959,Microscopy,mask,1,Microscopy,1.0
+forged,230,Body Imaging,area,3,Body Imaging,0.0
+forged,23006,Body Imaging,mask,5,Body Imaging;Graphs,0.724
+forged,23038,Microscopy,mask,1,Microscopy,1.0
+forged,2305,Body Imaging,mask,1,Body Imaging,0.883
+forged,2307,Microscopy,mask,1,Microscopy,1.0
+forged,23105,Blots,mask,1,Blots,0.98
+forged,23115,Body Imaging,mask,1,Body Imaging,1.0
+forged,23128,Body Imaging,mask,1,Body Imaging,1.0
+forged,23143,Body Imaging,mask,2,Body Imaging;Graphs,0.984
+forged,23146,Body Imaging,mask,3,Body Imaging,1.0
+forged,23157,Microscopy,mask,1,Microscopy,1.0
+forged,23175,Body Imaging,mask,1,Body Imaging,1.0
+forged,23223,Blots,mask,1,Blots,1.0
+forged,23236,Microscopy,mask,1,Microscopy,1.0
+forged,23247,Microscopy,mask,1,Microscopy,1.0
+forged,23251,Microscopy,mask,1,Microscopy,1.0
+forged,2326,Microscopy,mask,1,Microscopy,1.0
+forged,2329,Microscopy,mask,1,Microscopy,1.0
+forged,23357,Body Imaging,mask,3,Blots;Body Imaging;Graphs,1.0
+forged,23391,Blots,mask,1,Blots,1.0
+forged,23398,Microscopy,mask,1,Microscopy,1.0
+forged,23428,Microscopy,mask,1,Microscopy,1.0
+forged,23432,Microscopy,mask,1,Microscopy,1.0
+forged,23460,Blots,mask,1,Blots,0.991
+forged,23463,Body Imaging,mask,1,Body Imaging,1.0
+forged,23499,Microscopy,mask,1,Microscopy,1.0
+forged,23502,Microscopy,mask,1,Microscopy,1.0
+forged,23510,Body Imaging,mask,5,Body Imaging,0.551
+forged,23527,Body Imaging,mask,6,Body Imaging,1.0
+forged,2357,Blots,mask,1,Blots,1.0
+forged,23606,Microscopy,mask,1,Microscopy,1.0
+forged,23636,Body Imaging,mask,1,Body Imaging,1.0
+forged,23665,Microscopy,mask,1,Microscopy,1.0
+forged,23726,Microscopy,mask,1,Microscopy,1.0
+forged,23772,Blots,mask,1,Blots,0.956
+forged,23818,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,23860,Microscopy,mask,1,Microscopy,1.0
+forged,23868,Blots,mask,1,Blots,1.0
+forged,23904,Body Imaging,mask,3,Body Imaging,0.999
+forged,23930,Microscopy,mask,1,Microscopy,1.0
+forged,23976,Microscopy,mask,1,Microscopy,1.0
+forged,24012,Microscopy,mask,1,Microscopy,0.997
+forged,24027,Microscopy,mask,1,Microscopy,1.0
+forged,24029,Microscopy,mask,1,Microscopy,1.0
+forged,24032,Microscopy,mask,1,Microscopy,1.0
+forged,2404,Blots,mask,1,Blots,0.984
+forged,24043,Microscopy,mask,1,Microscopy,0.997
+forged,24097,Microscopy,mask,1,Microscopy,1.0
+forged,24111,Microscopy,mask,1,Microscopy,1.0
+forged,24135,Microscopy,mask,1,Microscopy,1.0
+forged,24147,Blots,mask,1,Blots,1.0
+forged,24193,Microscopy,mask,1,Microscopy,1.0
+forged,24201,Microscopy,mask,1,Microscopy,1.0
+forged,24218,Microscopy,mask,1,Microscopy,1.0
+forged,24249,Microscopy,mask,1,Microscopy,1.0
+forged,24268,Microscopy,mask,1,Microscopy,1.0
+forged,2430,Blots,mask,1,Blots,1.0
+forged,24300,Microscopy,mask,1,Microscopy,0.989
+forged,24332,Blots,mask,1,Blots,1.0
+forged,24336,Blots,mask,1,Blots,1.0
+forged,24348,Microscopy,mask,1,Microscopy,1.0
+forged,24351,Microscopy,mask,1,Microscopy,1.0
+forged,2436,Microscopy,mask,1,Microscopy,1.0
+forged,24381,Microscopy,mask,1,Microscopy,1.0
+forged,24386,Microscopy,mask,1,Microscopy,1.0
+forged,24402,Body Imaging,mask,1,Body Imaging,0.778
+forged,24473,Microscopy,mask,1,Microscopy,1.0
+forged,24482,Body Imaging,mask,1,Body Imaging,1.0
+forged,2450,Graphs,mask,1,Graphs,0.999
+forged,24505,Blots,mask,1,Blots,0.985
+forged,24554,Microscopy,mask,1,Microscopy,1.0
+forged,24555,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,24578,Blots,mask,2,Blots;Microscopy,1.0
+forged,24600,Microscopy,mask,1,Microscopy,0.993
+forged,24606,Microscopy,mask,1,Microscopy,1.0
+forged,24615,Microscopy,mask,1,Microscopy,1.0
+forged,24635,Microscopy,mask,1,Microscopy,1.0
+forged,24654,Body Imaging,area,1,Body Imaging,0.0
+forged,24676,Body Imaging,mask,2,Body Imaging;Microscopy,0.759
+forged,24682,Microscopy,mask,1,Microscopy,1.0
+forged,24686,Microscopy,mask,1,Microscopy,1.0
+forged,24696,Body Imaging,mask,3,Body Imaging,0.501
+forged,24736,Microscopy,mask,1,Microscopy,1.0
+forged,24749,Graphs,mask,1,Graphs,1.0
+forged,24755,Blots,mask,1,Blots,0.98
+forged,2476,Microscopy,mask,1,Microscopy,1.0
+forged,24770,Body Imaging,mask,2,Body Imaging,1.0
+forged,24795,Microscopy,mask,1,Microscopy,1.0
+forged,24850,Microscopy,mask,1,Microscopy,1.0
+forged,24867,Microscopy,mask,1,Microscopy,1.0
+forged,24894,Microscopy,mask,1,Microscopy,1.0
+forged,24912,Body Imaging,mask,2,Body Imaging;Graphs,0.999
+forged,24934,Microscopy,mask,1,Microscopy,1.0
+forged,24937,Microscopy,mask,1,Microscopy,1.0
+forged,24958,Microscopy,mask,1,Microscopy,1.0
+forged,24960,Body Imaging,mask,2,Body Imaging,1.0
+forged,24980,Blots,mask,1,Blots,1.0
+forged,25001,Body Imaging,mask,4,Body Imaging,0.492
+forged,25003,Microscopy,mask,1,Microscopy,1.0
+forged,25022,Microscopy,mask,1,Microscopy,1.0
+forged,2506,Body Imaging,mask,5,Body Imaging;Graphs,0.897
+forged,25064,Blots,mask,2,Blots,1.0
+forged,25067,Microscopy,mask,1,Microscopy,1.0
+forged,25124,Microscopy,mask,1,Microscopy,1.0
+forged,25142,Microscopy,mask,1,Microscopy,1.0
+forged,25245,Microscopy,mask,3,Microscopy,1.0
+forged,25285,Microscopy,mask,1,Microscopy,1.0
+forged,25311,Microscopy,mask,1,Microscopy,1.0
+forged,2534,Microscopy,mask,1,Microscopy,1.0
+forged,25340,Microscopy,mask,1,Microscopy,1.0
+forged,25344,Blots,mask,1,Blots,1.0
+forged,25351,Blots,mask,1,Blots,1.0
+forged,25356,Microscopy,mask,1,Microscopy,1.0
+forged,25388,Microscopy,mask,1,Microscopy,1.0
+forged,25390,Body Imaging,mask,4,Body Imaging;Graphs,1.0
+forged,25434,Blots,mask,1,Blots,1.0
+forged,25443,Microscopy,mask,1,Microscopy,1.0
+forged,25450,Microscopy,mask,1,Microscopy,1.0
+forged,25458,Microscopy,mask,1,Microscopy,1.0
+forged,25472,Microscopy,mask,1,Microscopy,1.0
+forged,25486,Body Imaging,mask,2,Body Imaging,1.0
+forged,25502,Microscopy,mask,1,Microscopy,1.0
+forged,25520,Microscopy,mask,1,Microscopy,1.0
+forged,25525,Microscopy,mask,1,Microscopy,1.0
+forged,25552,Body Imaging,mask,4,Body Imaging,0.508
+forged,25555,Microscopy,mask,1,Microscopy,1.0
+forged,25570,Microscopy,mask,1,Microscopy,1.0
+forged,25604,Microscopy,mask,1,Microscopy,1.0
+forged,25638,Microscopy,mask,1,Microscopy,1.0
+forged,25654,Microscopy,mask,1,Microscopy,1.0
+forged,25715,Body Imaging,mask,1,Body Imaging,1.0
+forged,25749,Microscopy,mask,2,Microscopy,1.0
+forged,25764,Blots,mask,1,Blots,0.972
+forged,2577,Blots,mask,1,Blots,1.0
+forged,25861,Microscopy,mask,1,Microscopy,1.0
+forged,25907,Microscopy,mask,1,Microscopy,1.0
+forged,25908,Blots,mask,1,Blots,1.0
+forged,25957,Microscopy,mask,1,Microscopy,1.0
+forged,25981,Microscopy,mask,1,Microscopy,1.0
+forged,26015,Microscopy,mask,1,Microscopy,1.0
+forged,26020,Blots,mask,1,Blots,0.987
+forged,26021,Blots,mask,1,Blots,1.0
+forged,26023,Microscopy,mask,1,Microscopy,1.0
+forged,26035,Microscopy,mask,1,Microscopy,1.0
+forged,26049,Microscopy,mask,1,Microscopy,1.0
+forged,26119,Microscopy,mask,1,Microscopy,0.996
+forged,26121,Blots,mask,1,Blots,0.99
+forged,26140,Microscopy,mask,1,Microscopy,1.0
+forged,26148,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,26200,Microscopy,mask,1,Microscopy,1.0
+forged,26206,Blots,mask,1,Blots,0.97
+forged,26208,Microscopy,mask,1,Microscopy,1.0
+forged,26211,Microscopy,mask,1,Microscopy,1.0
+forged,2622,Microscopy,mask,1,Microscopy,1.0
+forged,26252,Body Imaging,mask,1,Body Imaging,0.796
+forged,26286,Body Imaging,mask,1,Body Imaging,0.993
+forged,26292,Blots,mask,1,Blots,1.0
+forged,26313,Blots,mask,1,Blots,1.0
+forged,26329,Microscopy,mask,1,Microscopy,1.0
+forged,26335,Body Imaging,mask,1,Body Imaging,0.492
+forged,26370,Microscopy,mask,1,Microscopy,1.0
+forged,26402,Microscopy,mask,1,Microscopy,1.0
+forged,26430,Body Imaging,mask,2,Body Imaging;Graphs,0.992
+forged,26435,Body Imaging,mask,1,Body Imaging,1.0
+forged,26436,Microscopy,mask,1,Microscopy,1.0
+forged,26442,Microscopy,mask,2,Microscopy,1.0
+forged,26461,Microscopy,mask,1,Microscopy,1.0
+forged,26477,Microscopy,mask,2,Body Imaging;Microscopy,1.0
+forged,26492,Body Imaging,mask,1,Body Imaging,1.0
+forged,26499,Blots,mask,1,Blots,1.0
+forged,26523,Microscopy,mask,1,Microscopy,1.0
+forged,26560,Body Imaging,mask,1,Body Imaging,1.0
+forged,2657,Microscopy,mask,1,Microscopy,1.0
+forged,26580,Microscopy,mask,1,Microscopy,1.0
+forged,26581,Blots,mask,1,Blots,0.998
+forged,26583,Microscopy,mask,1,Microscopy,1.0
+forged,26606,Microscopy,mask,1,Microscopy,1.0
+forged,26644,Blots,mask,1,Blots,1.0
+forged,26730,Microscopy,mask,1,Microscopy,1.0
+forged,26766,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,26868,Microscopy,mask,1,Microscopy,1.0
+forged,26894,Blots,mask,1,Blots,0.994
+forged,26929,Microscopy,mask,1,Microscopy,1.0
+forged,26933,Microscopy,mask,1,Microscopy,0.996
+forged,26968,Microscopy,mask,1,Microscopy,0.996
+forged,26977,Body Imaging,mask,3,Body Imaging,1.0
+forged,27023,Graphs,mask,1,Graphs,1.0
+forged,27034,Microscopy,mask,1,Microscopy,0.999
+forged,27061,Blots,mask,1,Blots,1.0
+forged,27091,Blots,mask,1,Blots,1.0
+forged,27148,Blots,mask,1,Blots,0.986
+forged,27152,Microscopy,mask,1,Microscopy,1.0
+forged,27168,Microscopy,mask,1,Microscopy,1.0
+forged,27195,Blots,mask,1,Blots,0.998
+forged,27284,Microscopy,mask,1,Microscopy,1.0
+forged,27300,Microscopy,mask,1,Microscopy,1.0
+forged,27312,Microscopy,mask,1,Microscopy,1.0
+forged,27376,Blots,mask,1,Blots,1.0
+forged,27409,Microscopy,mask,1,Microscopy,1.0
+forged,27419,Microscopy,mask,1,Microscopy,1.0
+forged,27454,Microscopy,mask,1,Microscopy,1.0
+forged,27462,Body Imaging,mask,1,Body Imaging,0.842
+forged,27490,Blots,mask,1,Blots,0.997
+forged,27586,Microscopy,mask,1,Microscopy,1.0
+forged,27606,Microscopy,mask,1,Microscopy,1.0
+forged,27620,Microscopy,mask,1,Microscopy,1.0
+forged,27639,Microscopy,mask,1,Microscopy,1.0
+forged,27666,Blots,mask,1,Blots,1.0
+forged,27694,Microscopy,mask,1,Microscopy,1.0
+forged,27705,Microscopy,mask,1,Microscopy,1.0
+forged,27722,Blots,mask,2,Blots,0.993
+forged,27807,Microscopy,mask,1,Microscopy,1.0
+forged,27822,Microscopy,mask,1,Microscopy,1.0
+forged,27829,Blots,mask,1,Blots,1.0
+forged,27849,Microscopy,mask,1,Microscopy,1.0
+forged,27856,Microscopy,mask,3,Microscopy,1.0
+forged,27862,Blots,mask,1,Blots,1.0
+forged,27889,Microscopy,mask,1,Microscopy,1.0
+forged,27896,Microscopy,mask,1,Microscopy,1.0
+forged,27929,Blots,mask,1,Blots,1.0
+forged,27957,Blots,mask,1,Blots,1.0
+forged,28002,Blots,mask,1,Blots,1.0
+forged,28011,Microscopy,mask,1,Microscopy,1.0
+forged,28014,Body Imaging,mask,1,Body Imaging,0.999
+forged,28059,Microscopy,mask,1,Microscopy,1.0
+forged,28061,Body Imaging,mask,5,Body Imaging;Graphs,0.996
+forged,28081,Microscopy,mask,1,Microscopy,1.0
+forged,28179,Microscopy,mask,1,Microscopy,1.0
+forged,28195,Microscopy,mask,1,Microscopy,1.0
+forged,28207,Microscopy,mask,1,Microscopy,1.0
+forged,28209,Microscopy,mask,1,Microscopy,1.0
+forged,28213,Microscopy,mask,1,Microscopy,1.0
+forged,28226,Graphs,mask,1,Graphs,1.0
+forged,28245,Blots,mask,1,Blots,0.98
+forged,28248,Microscopy,mask,1,Microscopy,1.0
+forged,28251,Body Imaging,mask,1,Body Imaging,1.0
+forged,28264,Body Imaging,mask,2,Body Imaging,1.0
+forged,28279,Microscopy,mask,1,Microscopy,1.0
+forged,28283,Blots,mask,1,Blots,1.0
+forged,28307,Microscopy,mask,1,Microscopy,1.0
+forged,28310,Blots,mask,1,Blots,1.0
+forged,28355,Microscopy,mask,1,Microscopy,1.0
+forged,28390,Microscopy,mask,1,Microscopy,1.0
+forged,28412,Body Imaging,mask,1,Body Imaging,1.0
+forged,28438,Blots,mask,2,Blots,0.994
+forged,28449,Microscopy,mask,1,Microscopy,1.0
+forged,28465,Microscopy,mask,1,Microscopy,1.0
+forged,28469,Microscopy,mask,1,Microscopy,1.0
+forged,28496,Microscopy,mask,1,Microscopy,1.0
+forged,28548,Microscopy,mask,1,Microscopy,1.0
+forged,2855,Blots,mask,1,Blots,1.0
+forged,28559,Microscopy,mask,1,Microscopy,1.0
+forged,28571,Microscopy,mask,1,Microscopy,1.0
+forged,28578,Microscopy,mask,1,Microscopy,1.0
+forged,286,Microscopy,mask,1,Microscopy,1.0
+forged,28602,Microscopy,mask,4,Microscopy,1.0
+forged,28614,Body Imaging,mask,5,Body Imaging;Graphs;Microscopy,0.999
+forged,28617,Blots,mask,1,Blots,0.992
+forged,28645,Blots,mask,1,Blots,1.0
+forged,287,Blots,mask,1,Blots,0.995
+forged,28714,Microscopy,mask,1,Microscopy,1.0
+forged,28800,Microscopy,mask,1,Microscopy,1.0
+forged,28818,Microscopy,mask,1,Microscopy,1.0
+forged,28878,Microscopy,mask,1,Microscopy,1.0
+forged,28879,Body Imaging,mask,5,Body Imaging;Microscopy,0.775
+forged,28904,Body Imaging,mask,1,Body Imaging,1.0
+forged,28921,Microscopy,mask,1,Microscopy,1.0
+forged,28922,Microscopy,mask,1,Microscopy,1.0
+forged,28928,Microscopy,mask,1,Microscopy,1.0
+forged,28949,Blots,mask,1,Blots,1.0
+forged,28953,Microscopy,mask,1,Microscopy,1.0
+forged,2896,Microscopy,mask,1,Microscopy,1.0
+forged,28962,Body Imaging,mask,5,Body Imaging;Microscopy,1.0
+forged,28965,Microscopy,mask,3,Microscopy,1.0
+forged,28971,Microscopy,mask,3,Microscopy,1.0
+forged,28972,Microscopy,mask,1,Microscopy,1.0
+forged,29010,Microscopy,mask,1,Microscopy,1.0
+forged,29025,Blots,mask,1,Blots,1.0
+forged,29058,Microscopy,mask,1,Microscopy,1.0
+forged,29076,Blots,mask,1,Blots,1.0
+forged,29083,Microscopy,mask,1,Microscopy,1.0
+forged,29087,Microscopy,mask,1,Microscopy,1.0
+forged,2910,Blots,mask,1,Blots,0.987
+forged,29129,Microscopy,mask,5,Microscopy,1.0
+forged,29146,Microscopy,mask,1,Microscopy,1.0
+forged,29171,Microscopy,mask,1,Microscopy,1.0
+forged,29189,Microscopy,mask,1,Microscopy,1.0
+forged,29220,Microscopy,mask,1,Microscopy,1.0
+forged,29229,Body Imaging,mask,2,Body Imaging,0.516
+forged,29234,Body Imaging,mask,5,Body Imaging;Graphs,1.0
+forged,29277,Microscopy,mask,1,Microscopy,1.0
+forged,29281,Blots,mask,1,Blots,0.995
+forged,29380,Microscopy,mask,1,Microscopy,1.0
+forged,29464,Microscopy,mask,1,Microscopy,1.0
+forged,29465,Blots,mask,1,Blots,0.99
+forged,29466,Blots,mask,1,Blots,1.0
+forged,29472,Microscopy,mask,1,Microscopy,1.0
+forged,29475,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,29482,Microscopy,mask,1,Microscopy,1.0
+forged,29503,Blots,mask,1,Blots,0.972
+forged,29508,Microscopy,mask,1,Microscopy,1.0
+forged,29524,Microscopy,mask,1,Microscopy,1.0
+forged,29535,Blots,mask,1,Blots,1.0
+forged,29593,Microscopy,mask,1,Microscopy,1.0
+forged,29605,Microscopy,mask,1,Microscopy,1.0
+forged,29607,Microscopy,mask,1,Microscopy,1.0
+forged,2961,Body Imaging,mask,3,Body Imaging;Graphs;Microscopy,1.0
+forged,2966,Microscopy,mask,1,Microscopy,1.0
+forged,29663,Microscopy,mask,1,Microscopy,1.0
+forged,29668,Blots,mask,1,Blots,0.993
+forged,29671,Microscopy,mask,1,Microscopy,1.0
+forged,29675,Microscopy,mask,1,Microscopy,1.0
+forged,29679,Microscopy,mask,1,Microscopy,1.0
+forged,29689,Microscopy,mask,1,Microscopy,1.0
+forged,29736,Body Imaging,mask,8,Body Imaging;Graphs,1.0
+forged,29770,Microscopy,mask,1,Microscopy,1.0
+forged,29793,Microscopy,mask,1,Microscopy,1.0
+forged,29797,Blots,mask,1,Blots,1.0
+forged,298,Blots,mask,1,Blots,1.0
+forged,29876,Microscopy,mask,1,Microscopy,0.99
+forged,29894,Microscopy,mask,1,Microscopy,1.0
+forged,29899,Body Imaging,mask,4,Body Imaging;Graphs,0.965
+forged,29912,Body Imaging,mask,1,Body Imaging,1.0
+forged,29935,Blots,mask,1,Blots,1.0
+forged,29988,Blots,mask,1,Blots,0.972
+forged,30015,Blots,mask,1,Blots,1.0
+forged,30023,Microscopy,mask,1,Microscopy,0.992
+forged,30040,Microscopy,mask,1,Microscopy,1.0
+forged,30045,Microscopy,mask,1,Microscopy,1.0
+forged,30050,Microscopy,mask,1,Microscopy,1.0
+forged,30060,Body Imaging,mask,3,Body Imaging;Graphs,0.999
+forged,30100,Blots,mask,1,Blots,1.0
+forged,30191,Microscopy,mask,1,Microscopy,1.0
+forged,30217,Graphs,mask,3,Body Imaging;Graphs,1.0
+forged,30232,Microscopy,mask,1,Microscopy,1.0
+forged,30235,Microscopy,mask,1,Microscopy,1.0
+forged,30283,Microscopy,mask,1,Microscopy,1.0
+forged,30297,Microscopy,mask,1,Microscopy,1.0
+forged,30298,Microscopy,mask,1,Microscopy,1.0
+forged,30307,Blots,mask,1,Blots,0.991
+forged,30308,Microscopy,mask,1,Microscopy,1.0
+forged,30340,Microscopy,mask,1,Microscopy,1.0
+forged,30344,Microscopy,mask,1,Microscopy,1.0
+forged,30354,Microscopy,mask,1,Microscopy,1.0
+forged,30389,Microscopy,mask,1,Microscopy,1.0
+forged,30408,Microscopy,mask,1,Microscopy,1.0
+forged,30419,Microscopy,mask,1,Microscopy,0.998
+forged,30476,Body Imaging,mask,3,Body Imaging;Graphs,0.96
+forged,30494,Microscopy,mask,1,Microscopy,1.0
+forged,30503,Microscopy,mask,1,Microscopy,1.0
+forged,30572,Microscopy,mask,1,Microscopy,1.0
+forged,30587,Microscopy,mask,1,Microscopy,1.0
+forged,30614,Microscopy,mask,1,Microscopy,1.0
+forged,3062,Microscopy,mask,1,Microscopy,1.0
+forged,30624,Microscopy,mask,1,Microscopy,0.992
+forged,30629,Blots,mask,1,Blots,1.0
+forged,30634,Microscopy,mask,1,Microscopy,1.0
+forged,30649,Blots,mask,1,Blots,0.948
+forged,30715,Microscopy,mask,1,Microscopy,1.0
+forged,30716,Microscopy,mask,1,Microscopy,1.0
+forged,3073,Microscopy,mask,1,Microscopy,1.0
+forged,30748,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,3087,Blots,mask,1,Blots,1.0
+forged,30871,Microscopy,mask,1,Microscopy,0.988
+forged,30881,Microscopy,mask,1,Microscopy,1.0
+forged,30883,Microscopy,mask,1,Microscopy,1.0
+forged,30909,Microscopy,mask,1,Microscopy,1.0
+forged,30914,Microscopy,mask,1,Microscopy,1.0
+forged,30917,Microscopy,mask,1,Microscopy,1.0
+forged,30923,Microscopy,mask,1,Microscopy,1.0
+forged,30931,Microscopy,mask,1,Microscopy,1.0
+forged,30950,Body Imaging,mask,2,Body Imaging,0.999
+forged,30996,Body Imaging,mask,1,Body Imaging,1.0
+forged,31040,Blots,mask,1,Blots,1.0
+forged,31077,Microscopy,mask,1,Microscopy,1.0
+forged,31086,Blots,mask,1,Blots,1.0
+forged,31089,Blots,mask,1,Blots,0.988
+forged,31098,Microscopy,mask,1,Microscopy,1.0
+forged,3110,Blots,mask,1,Blots,1.0
+forged,31156,Microscopy,mask,1,Microscopy,1.0
+forged,31168,Microscopy,mask,1,Microscopy,1.0
+forged,31186,Microscopy,mask,3,Microscopy,1.0
+forged,31188,Blots,mask,1,Blots,1.0
+forged,31218,Microscopy,mask,1,Microscopy,1.0
+forged,31222,Microscopy,mask,2,Microscopy,1.0
+forged,31232,Microscopy,mask,1,Microscopy,1.0
+forged,31245,Blots,mask,1,Blots,1.0
+forged,3125,Microscopy,mask,1,Microscopy,1.0
+forged,31262,Microscopy,mask,1,Microscopy,1.0
+forged,31301,Blots,mask,1,Blots,1.0
+forged,31313,Blots,mask,1,Blots,1.0
+forged,31329,Blots,mask,1,Blots,0.992
+forged,31330,Microscopy,mask,1,Microscopy,1.0
+forged,31336,Microscopy,mask,1,Microscopy,1.0
+forged,31354,Microscopy,mask,1,Microscopy,1.0
+forged,31405,Blots,mask,1,Blots,0.983
+forged,31425,Graphs,mask,3,Body Imaging;Graphs,1.0
+forged,31465,Microscopy,mask,1,Microscopy,0.999
+forged,31468,Body Imaging,mask,8,Body Imaging,1.0
+forged,31476,Blots,mask,1,Blots,1.0
+forged,31540,Body Imaging,mask,6,Body Imaging;Graphs;Microscopy,1.0
+forged,3159,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,3167,Body Imaging,mask,2,Body Imaging,1.0
+forged,31725,Blots,mask,1,Blots,1.0
+forged,31783,Blots,mask,1,Blots,1.0
+forged,31803,Microscopy,mask,1,Microscopy,1.0
+forged,31812,Microscopy,mask,1,Microscopy,1.0
+forged,31826,Body Imaging,mask,4,Body Imaging,0.531
+forged,31834,Blots,mask,1,Blots,1.0
+forged,31864,Body Imaging,mask,1,Body Imaging,0.892
+forged,31891,Blots,mask,1,Blots,1.0
+forged,31893,Graphs,mask,3,Body Imaging;Graphs,1.0
+forged,31907,Microscopy,mask,1,Microscopy,1.0
+forged,31942,Microscopy,mask,1,Microscopy,1.0
+forged,31956,Microscopy,mask,2,Microscopy,1.0
+forged,3197,Body Imaging,mask,1,Body Imaging,0.988
+forged,31979,Body Imaging,mask,1,Body Imaging,1.0
+forged,32011,Microscopy,mask,1,Microscopy,1.0
+forged,32013,Microscopy,mask,1,Microscopy,1.0
+forged,32018,Microscopy,mask,1,Microscopy,1.0
+forged,32023,Graphs,mask,3,Body Imaging;Graphs,1.0
+forged,32053,Microscopy,mask,1,Microscopy,1.0
+forged,32061,Microscopy,mask,1,Microscopy,1.0
+forged,32139,Microscopy,mask,1,Microscopy,1.0
+forged,32146,Microscopy,mask,1,Microscopy,1.0
+forged,32154,Microscopy,mask,1,Microscopy,1.0
+forged,32162,Microscopy,mask,3,Microscopy,1.0
+forged,32170,Microscopy,mask,1,Microscopy,1.0
+forged,32196,Microscopy,mask,1,Microscopy,1.0
+forged,32201,Blots,mask,1,Blots,1.0
+forged,32220,Microscopy,mask,1,Microscopy,0.995
+forged,32222,Microscopy,mask,1,Microscopy,1.0
+forged,32259,Microscopy,mask,4,Microscopy,1.0
+forged,3228,Graphs,mask,1,Graphs,0.987
+forged,32293,Body Imaging,mask,3,Body Imaging,1.0
+forged,32317,Microscopy,mask,1,Microscopy,0.997
+forged,32383,Microscopy,mask,1,Microscopy,1.0
+forged,32393,Microscopy,mask,1,Microscopy,1.0
+forged,32398,Graphs,mask,2,Body Imaging;Graphs,0.997
+forged,32428,Microscopy,mask,1,Microscopy,1.0
+forged,32470,Body Imaging,mask,6,Body Imaging,0.614
+forged,32486,Microscopy,mask,1,Microscopy,1.0
+forged,32493,Microscopy,mask,1,Microscopy,1.0
+forged,32535,Blots,mask,1,Blots,1.0
+forged,32575,Blots,mask,2,Blots,1.0
+forged,3260,Blots,mask,1,Blots,1.0
+forged,32662,Blots,mask,1,Blots,1.0
+forged,32714,Microscopy,mask,1,Microscopy,0.997
+forged,32722,Microscopy,mask,1,Microscopy,1.0
+forged,32818,Microscopy,mask,1,Microscopy,1.0
+forged,32845,Body Imaging,mask,2,Body Imaging,0.639
+forged,32880,Microscopy,mask,1,Microscopy,1.0
+forged,32883,Body Imaging,mask,4,Body Imaging,1.0
+forged,32884,Microscopy,mask,2,Microscopy,1.0
+forged,32920,Microscopy,mask,1,Microscopy,1.0
+forged,32931,Microscopy,mask,1,Microscopy,1.0
+forged,32934,Microscopy,mask,1,Microscopy,1.0
+forged,32945,Microscopy,mask,1,Microscopy,1.0
+forged,32973,Blots,mask,1,Blots,0.985
+forged,32979,Microscopy,mask,1,Microscopy,1.0
+forged,32989,Blots,mask,1,Blots,1.0
+forged,330,Microscopy,mask,1,Microscopy,1.0
+forged,33041,Microscopy,mask,2,Microscopy,1.0
+forged,33053,Blots,mask,1,Blots,1.0
+forged,33057,Microscopy,mask,1,Microscopy,1.0
+forged,33064,Microscopy,mask,4,Microscopy,1.0
+forged,33071,Microscopy,mask,1,Microscopy,1.0
+forged,33119,Body Imaging,mask,1,Body Imaging,1.0
+forged,33127,Microscopy,mask,1,Microscopy,1.0
+forged,33160,Microscopy,mask,1,Microscopy,1.0
+forged,3318,Body Imaging,mask,1,Body Imaging,1.0
+forged,33199,Body Imaging,mask,2,Body Imaging;Graphs,0.719
+forged,33205,Microscopy,mask,1,Microscopy,1.0
+forged,33235,Microscopy,mask,1,Microscopy,1.0
+forged,33256,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,33266,Microscopy,mask,1,Microscopy,1.0
+forged,33273,Body Imaging,mask,1,Body Imaging,1.0
+forged,33287,Microscopy,mask,1,Microscopy,1.0
+forged,33295,Blots,mask,1,Blots,0.99
+forged,33296,Blots,mask,1,Blots,1.0
+forged,33304,Blots,mask,1,Blots,1.0
+forged,33319,Microscopy,mask,1,Microscopy,1.0
+forged,33340,Microscopy,mask,1,Microscopy,1.0
+forged,33343,Graphs,mask,2,Graphs;Microscopy,0.999
+forged,3339,Microscopy,mask,1,Microscopy,1.0
+forged,33392,Microscopy,mask,1,Microscopy,1.0
+forged,33397,Microscopy,mask,2,Microscopy,1.0
+forged,33474,Microscopy,mask,1,Microscopy,1.0
+forged,33513,Microscopy,mask,1,Microscopy,0.999
+forged,33580,Blots,mask,1,Blots,0.987
+forged,33588,Body Imaging,mask,2,Body Imaging,0.895
+forged,33618,Microscopy,mask,1,Microscopy,1.0
+forged,3367,Microscopy,mask,1,Microscopy,1.0
+forged,33686,Blots,mask,1,Blots,0.993
+forged,33689,Microscopy,mask,1,Microscopy,1.0
+forged,3371,Microscopy,mask,1,Microscopy,1.0
+forged,33735,Blots,mask,1,Blots,1.0
+forged,33772,Body Imaging,mask,3,Body Imaging;Graphs,0.986
+forged,33778,Microscopy,mask,1,Microscopy,1.0
+forged,33791,Microscopy,mask,1,Microscopy,1.0
+forged,33877,Microscopy,mask,1,Microscopy,1.0
+forged,33878,Body Imaging,mask,5,Body Imaging,1.0
+forged,33898,Microscopy,mask,1,Microscopy,1.0
+forged,339,Blots,mask,1,Blots,0.991
+forged,33928,Blots,mask,1,Blots,1.0
+forged,3394,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,33949,Blots,mask,1,Blots,1.0
+forged,33968,Microscopy,mask,1,Microscopy,1.0
+forged,33985,Body Imaging,mask,6,Body Imaging;Microscopy,0.976
+forged,34005,Microscopy,mask,1,Microscopy,1.0
+forged,3402,Blots,mask,1,Blots,0.988
+forged,34027,Microscopy,mask,1,Microscopy,1.0
+forged,34035,Body Imaging,mask,1,Body Imaging,1.0
+forged,34036,Blots,mask,1,Blots,1.0
+forged,34103,Microscopy,mask,1,Microscopy,1.0
+forged,34132,Microscopy,mask,1,Microscopy,1.0
+forged,34171,Body Imaging,mask,5,Body Imaging;Graphs,0.486
+forged,34174,Microscopy,mask,9,Microscopy,1.0
+forged,34211,Blots,mask,1,Blots,1.0
+forged,34237,Blots,mask,1,Blots,0.997
+forged,34255,Blots,mask,1,Blots,1.0
+forged,34265,Graphs,mask,2,Body Imaging;Graphs,1.0
+forged,34295,Blots,mask,1,Blots,1.0
+forged,34306,Blots,mask,1,Blots,1.0
+forged,34317,Microscopy,mask,1,Microscopy,1.0
+forged,34319,Microscopy,mask,1,Microscopy,0.995
+forged,34367,Blots,mask,1,Blots,1.0
+forged,34383,Microscopy,mask,1,Microscopy,1.0
+forged,34415,Body Imaging,mask,3,Body Imaging,0.519
+forged,34526,Blots,mask,1,Blots,1.0
+forged,34527,Microscopy,mask,1,Microscopy,1.0
+forged,34528,Microscopy,mask,1,Microscopy,1.0
+forged,34572,Microscopy,mask,1,Microscopy,1.0
+forged,34597,Body Imaging,mask,6,Body Imaging;Graphs,1.0
+forged,346,Microscopy,mask,1,Microscopy,1.0
+forged,34672,Blots,mask,1,Blots,1.0
+forged,34744,Graphs,mask,2,Body Imaging;Graphs,0.988
+forged,34769,Blots,mask,1,Blots,1.0
+forged,34824,Microscopy,mask,1,Microscopy,1.0
+forged,3483,Microscopy,mask,1,Microscopy,1.0
+forged,34842,Microscopy,mask,1,Microscopy,1.0
+forged,34845,Microscopy,mask,1,Microscopy,1.0
+forged,34869,Blots,mask,1,Blots,1.0
+forged,34873,Body Imaging,mask,1,Body Imaging,0.717
+forged,34883,Microscopy,mask,1,Microscopy,1.0
+forged,34908,Microscopy,mask,1,Microscopy,1.0
+forged,34914,Microscopy,mask,1,Microscopy,1.0
+forged,34992,Microscopy,mask,1,Microscopy,1.0
+forged,350,Blots,mask,1,Blots,1.0
+forged,35018,Microscopy,mask,1,Microscopy,1.0
+forged,35035,Blots,mask,1,Blots,1.0
+forged,35038,Microscopy,mask,1,Microscopy,1.0
+forged,35068,Blots,mask,1,Blots,0.989
+forged,35069,Blots,mask,1,Blots,1.0
+forged,35094,Microscopy,mask,1,Microscopy,1.0
+forged,35107,Microscopy,mask,1,Microscopy,1.0
+forged,35112,Microscopy,mask,1,Microscopy,1.0
+forged,35117,Microscopy,mask,1,Microscopy,1.0
+forged,35127,Blots,mask,1,Blots,0.993
+forged,35143,Microscopy,mask,1,Microscopy,1.0
+forged,35176,Body Imaging,mask,4,Body Imaging;Microscopy,1.0
+forged,35208,Microscopy,mask,1,Microscopy,1.0
+forged,35216,Microscopy,mask,1,Microscopy,1.0
+forged,35222,Blots,mask,1,Blots,1.0
+forged,35234,Microscopy,mask,1,Microscopy,1.0
+forged,35322,Blots,mask,1,Blots,1.0
+forged,35347,Microscopy,mask,1,Microscopy,1.0
+forged,35374,Body Imaging,mask,1,Body Imaging,1.0
+forged,35378,Microscopy,mask,1,Microscopy,1.0
+forged,35385,Blots,mask,1,Blots,0.977
+forged,35390,Microscopy,mask,1,Microscopy,1.0
+forged,35412,Microscopy,mask,1,Microscopy,1.0
+forged,35467,Microscopy,mask,1,Microscopy,1.0
+forged,35471,Microscopy,mask,1,Microscopy,1.0
+forged,35522,Microscopy,mask,1,Microscopy,0.999
+forged,35559,Microscopy,mask,1,Microscopy,1.0
+forged,35570,Blots,mask,1,Blots,1.0
+forged,35578,Blots,mask,1,Blots,0.993
+forged,35586,Body Imaging,mask,3,Body Imaging,1.0
+forged,35610,Microscopy,mask,1,Microscopy,1.0
+forged,35616,Microscopy,mask,1,Microscopy,1.0
+forged,35628,Microscopy,mask,1,Microscopy,1.0
+forged,35670,Microscopy,mask,1,Microscopy,1.0
+forged,35715,Microscopy,mask,1,Microscopy,1.0
+forged,35717,Microscopy,mask,1,Microscopy,1.0
+forged,35719,Microscopy,mask,2,Body Imaging;Microscopy,1.0
+forged,35723,Blots,mask,1,Blots,1.0
+forged,3574,Microscopy,mask,1,Microscopy,1.0
+forged,35744,Microscopy,mask,1,Microscopy,0.999
+forged,35763,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,35781,Body Imaging,mask,6,Body Imaging,0.993
+forged,35814,Body Imaging,mask,3,Body Imaging;Microscopy,0.954
+forged,35827,Microscopy,mask,1,Microscopy,1.0
+forged,35829,Microscopy,mask,7,Microscopy,0.996
+forged,35849,Blots,mask,1,Blots,1.0
+forged,35850,Microscopy,mask,1,Microscopy,1.0
+forged,35861,Microscopy,mask,1,Microscopy,1.0
+forged,35871,Microscopy,mask,1,Microscopy,1.0
+forged,35885,Microscopy,mask,1,Microscopy,1.0
+forged,35933,Graphs,mask,3,Body Imaging;Graphs,1.0
+forged,35950,Body Imaging,mask,8,Body Imaging,0.999
+forged,3598,Blots,mask,1,Blots,0.999
+forged,360,Microscopy,mask,1,Microscopy,1.0
+forged,36010,Microscopy,mask,1,Microscopy,1.0
+forged,36035,Microscopy,mask,1,Microscopy,1.0
+forged,3606,Body Imaging,mask,3,Body Imaging;Graphs;Microscopy,1.0
+forged,36106,Blots,mask,1,Blots,0.993
+forged,36175,Microscopy,mask,1,Microscopy,1.0
+forged,36181,Microscopy,mask,1,Microscopy,1.0
+forged,36190,Microscopy,mask,1,Microscopy,1.0
+forged,36223,Blots,mask,2,Blots,0.994
+forged,36245,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,36292,Microscopy,mask,3,Microscopy,1.0
+forged,36295,Body Imaging,mask,3,Body Imaging;Graphs;Microscopy,1.0
+forged,3632,Microscopy,mask,1,Microscopy,1.0
+forged,36323,Microscopy,mask,1,Microscopy,1.0
+forged,36343,Microscopy,mask,1,Microscopy,1.0
+forged,36371,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,36390,Microscopy,mask,1,Microscopy,1.0
+forged,36412,Microscopy,mask,1,Microscopy,1.0
+forged,36413,Blots,mask,1,Blots,0.983
+forged,36423,Microscopy,mask,1,Microscopy,1.0
+forged,36434,Microscopy,mask,1,Microscopy,1.0
+forged,36453,Microscopy,mask,1,Microscopy,1.0
+forged,36460,Graphs,mask,1,Graphs,1.0
+forged,36511,Microscopy,mask,1,Microscopy,1.0
+forged,36553,Body Imaging,mask,7,Body Imaging;Graphs,0.995
+forged,36580,Microscopy,mask,1,Microscopy,1.0
+forged,36597,Microscopy,mask,1,Microscopy,1.0
+forged,3662,Microscopy,mask,1,Microscopy,1.0
+forged,36640,Blots,mask,1,Blots,0.991
+forged,36648,Graphs,mask,4,Body Imaging;Graphs,1.0
+forged,36705,Microscopy,mask,6,Microscopy,1.0
+forged,36707,Microscopy,mask,1,Microscopy,1.0
+forged,3671,Body Imaging,mask,1,Body Imaging,1.0
+forged,36715,Microscopy,mask,1,Microscopy,1.0
+forged,3672,Microscopy,mask,1,Microscopy,1.0
+forged,36724,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,36746,Blots,mask,1,Blots,0.997
+forged,3678,Microscopy,mask,1,Microscopy,1.0
+forged,36794,Microscopy,mask,1,Microscopy,1.0
+forged,36840,Microscopy,mask,7,Microscopy,1.0
+forged,36945,Microscopy,mask,1,Microscopy,1.0
+forged,36949,Microscopy,mask,7,Microscopy,1.0
+forged,36968,Body Imaging,mask,1,Body Imaging,0.999
+forged,36986,Microscopy,mask,1,Microscopy,1.0
+forged,3704,Body Imaging,mask,1,Body Imaging,0.999
+forged,37050,Microscopy,mask,1,Microscopy,1.0
+forged,37076,Microscopy,mask,1,Microscopy,1.0
+forged,37084,Microscopy,mask,1,Microscopy,0.801
+forged,37135,Microscopy,mask,1,Microscopy,1.0
+forged,3714,Body Imaging,mask,2,Body Imaging,1.0
+forged,37143,Blots,mask,1,Blots,1.0
+forged,37149,Microscopy,mask,1,Microscopy,1.0
+forged,37164,Microscopy,mask,1,Microscopy,0.992
+forged,3719,Microscopy,mask,1,Microscopy,1.0
+forged,37195,Microscopy,mask,1,Microscopy,1.0
+forged,37253,Microscopy,mask,1,Microscopy,1.0
+forged,37280,Microscopy,mask,1,Microscopy,1.0
+forged,37321,Microscopy,mask,1,Microscopy,1.0
+forged,37348,Microscopy,mask,1,Microscopy,1.0
+forged,37361,Microscopy,mask,1,Microscopy,1.0
+forged,37364,Microscopy,mask,1,Microscopy,1.0
+forged,37400,Microscopy,mask,1,Microscopy,1.0
+forged,37401,Microscopy,mask,1,Microscopy,1.0
+forged,37421,Blots,mask,2,Blots;Microscopy,1.0
+forged,37423,Body Imaging,mask,3,Body Imaging;Graphs,1.0
+forged,37424,Body Imaging,mask,1,Body Imaging,1.0
+forged,37448,Microscopy,mask,1,Microscopy,0.979
+forged,37451,Microscopy,mask,1,Microscopy,1.0
+forged,37476,Blots,mask,1,Blots,1.0
+forged,37495,Microscopy,mask,1,Microscopy,1.0
+forged,37504,Microscopy,mask,1,Microscopy,1.0
+forged,3751,Microscopy,mask,1,Microscopy,1.0
+forged,37528,Microscopy,mask,1,Microscopy,1.0
+forged,37553,Microscopy,mask,1,Microscopy,1.0
+forged,37556,Microscopy,mask,1,Microscopy,1.0
+forged,37583,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,37586,Microscopy,mask,1,Microscopy,1.0
+forged,37605,Microscopy,mask,1,Microscopy,1.0
+forged,37639,Graphs,mask,2,Body Imaging;Graphs,1.0
+forged,377,Blots,mask,1,Blots,1.0
+forged,37708,Microscopy,mask,1,Microscopy,1.0
+forged,37735,Body Imaging,mask,1,Body Imaging,1.0
+forged,37768,Microscopy,mask,1,Microscopy,1.0
+forged,37783,Microscopy,mask,1,Microscopy,1.0
+forged,37802,Microscopy,mask,1,Microscopy,1.0
+forged,37816,Blots,mask,1,Blots,1.0
+forged,37817,Microscopy,mask,1,Microscopy,1.0
+forged,37827,Blots,mask,1,Blots,1.0
+forged,37830,Microscopy,mask,1,Microscopy,1.0
+forged,3785,Blots,mask,1,Blots,1.0
+forged,37855,Microscopy,mask,2,Microscopy,1.0
+forged,37856,Microscopy,mask,1,Microscopy,0.997
+forged,37857,Blots,mask,1,Blots,1.0
+forged,37880,Microscopy,mask,1,Microscopy,1.0
+forged,37894,Microscopy,mask,1,Microscopy,1.0
+forged,37902,Microscopy,area,2,Microscopy,0.0
+forged,37903,Microscopy,mask,1,Microscopy,1.0
+forged,37909,Microscopy,mask,1,Microscopy,1.0
+forged,37912,Blots,mask,1,Blots,1.0
+forged,37921,Microscopy,mask,1,Microscopy,1.0
+forged,37934,Microscopy,mask,1,Microscopy,1.0
+forged,37942,Body Imaging,mask,2,Body Imaging,1.0
+forged,3795,Microscopy,mask,1,Microscopy,1.0
+forged,37966,Microscopy,mask,5,Microscopy,1.0
+forged,37975,Blots,mask,1,Blots,1.0
+forged,37980,Blots,mask,1,Blots,1.0
+forged,38034,Microscopy,mask,1,Microscopy,1.0
+forged,38038,Blots,mask,1,Blots,1.0
+forged,38055,Microscopy,mask,1,Microscopy,1.0
+forged,3811,Body Imaging,mask,3,Body Imaging,1.0
+forged,38129,Microscopy,mask,1,Microscopy,1.0
+forged,38136,Microscopy,mask,1,Microscopy,1.0
+forged,38160,Blots,mask,1,Blots,1.0
+forged,38205,Microscopy,mask,1,Microscopy,1.0
+forged,38228,Microscopy,mask,1,Microscopy,1.0
+forged,3824,Blots,mask,1,Blots,1.0
+forged,38256,Microscopy,mask,1,Microscopy,1.0
+forged,3826,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,38283,Graphs,mask,5,Body Imaging;Graphs,0.983
+forged,38285,Body Imaging,mask,6,Body Imaging;Graphs,1.0
+forged,38292,Microscopy,mask,1,Microscopy,1.0
+forged,38294,Blots,mask,1,Blots,1.0
+forged,38339,Microscopy,mask,1,Microscopy,1.0
+forged,38396,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,384,Microscopy,mask,1,Microscopy,1.0
+forged,38409,Microscopy,mask,1,Microscopy,1.0
+forged,38440,Microscopy,mask,1,Microscopy,1.0
+forged,38456,Microscopy,mask,1,Microscopy,1.0
+forged,38471,Microscopy,mask,1,Microscopy,1.0
+forged,38481,Blots,mask,1,Blots,0.967
+forged,38484,Body Imaging,mask,1,Body Imaging,1.0
+forged,38486,Microscopy,mask,1,Microscopy,1.0
+forged,38495,Blots,mask,1,Blots,0.986
+forged,38500,Microscopy,mask,1,Microscopy,1.0
+forged,38521,Microscopy,mask,1,Microscopy,1.0
+forged,38534,Body Imaging,mask,5,Body Imaging;Microscopy,0.985
+forged,38548,Microscopy,mask,1,Microscopy,1.0
+forged,38567,Body Imaging,mask,1,Body Imaging,0.999
+forged,38582,Microscopy,mask,1,Microscopy,1.0
+forged,38613,Microscopy,mask,1,Microscopy,1.0
+forged,38625,Microscopy,mask,1,Microscopy,1.0
+forged,38633,Microscopy,mask,1,Microscopy,1.0
+forged,38660,Microscopy,mask,1,Microscopy,1.0
+forged,38667,Microscopy,mask,3,Microscopy,1.0
+forged,38679,Body Imaging,mask,4,Body Imaging;Graphs,1.0
+forged,38698,Microscopy,mask,1,Microscopy,1.0
+forged,38699,Microscopy,mask,1,Microscopy,1.0
+forged,38780,Microscopy,mask,1,Microscopy,1.0
+forged,3880,Body Imaging,mask,3,Body Imaging;Microscopy,1.0
+forged,38800,Microscopy,mask,1,Microscopy,1.0
+forged,38842,Microscopy,mask,8,Microscopy,1.0
+forged,38913,Body Imaging,mask,2,Body Imaging,1.0
+forged,38945,Microscopy,mask,1,Microscopy,1.0
+forged,3895,Microscopy,mask,1,Microscopy,1.0
+forged,38953,Microscopy,mask,1,Microscopy,1.0
+forged,38979,Body Imaging,mask,7,Body Imaging;Microscopy,1.0
+forged,38996,Microscopy,mask,1,Microscopy,1.0
+forged,39007,Microscopy,mask,1,Microscopy,1.0
+forged,39015,Microscopy,mask,1,Microscopy,1.0
+forged,39078,Microscopy,mask,6,Microscopy,1.0
+forged,39097,Blots,mask,1,Blots,1.0
+forged,39099,Microscopy,mask,1,Microscopy,1.0
+forged,39113,Body Imaging,mask,1,Body Imaging,1.0
+forged,39156,Blots,mask,1,Blots,0.99
+forged,39162,Microscopy,mask,1,Microscopy,1.0
+forged,39245,Body Imaging,mask,2,Body Imaging;Graphs,0.999
+forged,39299,Blots,mask,1,Blots,1.0
+forged,3933,Microscopy,mask,1,Microscopy,1.0
+forged,39338,Microscopy,mask,1,Microscopy,1.0
+forged,3934,Microscopy,mask,1,Microscopy,1.0
+forged,39341,Blots,mask,1,Blots,1.0
+forged,39366,Microscopy,mask,2,Microscopy,0.997
+forged,39385,Microscopy,mask,1,Microscopy,1.0
+forged,39388,Blots,mask,1,Blots,1.0
+forged,39397,Microscopy,mask,2,Microscopy,1.0
+forged,39486,Microscopy,mask,1,Microscopy,1.0
+forged,39549,Microscopy,mask,1,Microscopy,1.0
+forged,39573,Microscopy,mask,1,Microscopy,1.0
+forged,39579,Body Imaging,mask,1,Body Imaging,0.801
+forged,3958,Microscopy,mask,1,Microscopy,1.0
+forged,39620,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,39625,Microscopy,mask,1,Microscopy,1.0
+forged,39637,Graphs,mask,2,Body Imaging;Graphs,0.506
+forged,39638,Microscopy,mask,1,Microscopy,1.0
+forged,39702,Microscopy,mask,1,Microscopy,1.0
+forged,39719,Blots,mask,1,Blots,0.995
+forged,39728,Microscopy,mask,1,Microscopy,1.0
+forged,39737,Body Imaging,mask,2,Body Imaging;Graphs,0.994
+forged,39740,Blots,mask,1,Blots,1.0
+forged,39795,Body Imaging,mask,3,Body Imaging;Microscopy,0.999
+forged,39831,Graphs,mask,3,Body Imaging;Graphs,0.999
+forged,39875,Microscopy,mask,1,Microscopy,1.0
+forged,39903,Microscopy,mask,1,Microscopy,1.0
+forged,3991,Microscopy,mask,1,Microscopy,1.0
+forged,39917,Body Imaging,mask,1,Body Imaging,0.988
+forged,39921,Microscopy,mask,1,Microscopy,1.0
+forged,39944,Blots,mask,1,Blots,1.0
+forged,40000,Microscopy,mask,1,Microscopy,1.0
+forged,40009,Microscopy,mask,1,Microscopy,1.0
+forged,40017,Microscopy,mask,1,Microscopy,1.0
+forged,40022,Body Imaging,mask,6,Body Imaging;Graphs,1.0
+forged,40033,Body Imaging,mask,2,Body Imaging,0.49
+forged,40072,Microscopy,mask,1,Microscopy,1.0
+forged,4011,Microscopy,mask,1,Microscopy,1.0
+forged,40191,Microscopy,mask,1,Microscopy,1.0
+forged,40215,Microscopy,mask,1,Microscopy,1.0
+forged,4022,Microscopy,mask,1,Microscopy,1.0
+forged,40250,Microscopy,mask,1,Microscopy,1.0
+forged,40276,Blots,mask,2,Blots,0.995
+forged,40279,Microscopy,mask,1,Microscopy,1.0
+forged,4028,Microscopy,mask,1,Microscopy,1.0
+forged,40298,Microscopy,mask,1,Microscopy,1.0
+forged,403,Body Imaging,mask,6,Body Imaging,1.0
+forged,40303,Microscopy,mask,1,Microscopy,1.0
+forged,40315,Microscopy,mask,1,Microscopy,1.0
+forged,40325,Microscopy,mask,1,Microscopy,1.0
+forged,40349,Microscopy,mask,1,Microscopy,1.0
+forged,40351,Blots,mask,1,Blots,1.0
+forged,40354,Blots,mask,1,Blots,0.987
+forged,40364,Body Imaging,mask,1,Body Imaging,1.0
+forged,40372,Microscopy,mask,1,Microscopy,0.999
+forged,40373,Blots,mask,1,Blots,0.998
+forged,40398,Microscopy,mask,1,Microscopy,0.992
+forged,40411,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,4042,Blots,mask,1,Blots,1.0
+forged,40442,Microscopy,mask,1,Microscopy,1.0
+forged,4045,Microscopy,mask,1,Microscopy,1.0
+forged,40450,Microscopy,mask,1,Microscopy,1.0
+forged,40478,Microscopy,mask,1,Microscopy,1.0
+forged,40491,Microscopy,mask,1,Microscopy,1.0
+forged,40494,Microscopy,mask,1,Microscopy,1.0
+forged,40519,Microscopy,mask,1,Microscopy,1.0
+forged,40532,Body Imaging,mask,3,Body Imaging;Graphs,0.999
+forged,40559,Body Imaging,mask,1,Body Imaging,1.0
+forged,4057,Microscopy,mask,2,Microscopy,1.0
+forged,40580,Microscopy,mask,3,Microscopy,1.0
+forged,40582,Microscopy,mask,1,Microscopy,1.0
+forged,40656,Microscopy,mask,1,Microscopy,1.0
+forged,40678,Microscopy,mask,1,Microscopy,1.0
+forged,40684,Blots,mask,1,Blots,1.0
+forged,40718,Microscopy,mask,1,Microscopy,1.0
+forged,40728,Microscopy,mask,1,Microscopy,1.0
+forged,40732,Microscopy,mask,1,Microscopy,1.0
+forged,40782,Blots,mask,1,Blots,1.0
+forged,40803,Body Imaging,mask,1,Body Imaging,1.0
+forged,40823,Body Imaging,mask,7,Body Imaging;Microscopy,1.0
+forged,40828,Body Imaging,mask,3,Body Imaging,1.0
+forged,40834,Microscopy,mask,1,Microscopy,1.0
+forged,40835,Microscopy,mask,1,Microscopy,1.0
+forged,40859,Microscopy,mask,1,Microscopy,1.0
+forged,4087,Microscopy,mask,1,Microscopy,1.0
+forged,40919,Graphs,mask,1,Graphs,0.99
+forged,40934,Microscopy,mask,1,Microscopy,1.0
+forged,40938,Microscopy,mask,1,Microscopy,1.0
+forged,40949,Microscopy,mask,1,Microscopy,1.0
+forged,40960,Microscopy,mask,1,Microscopy,1.0
+forged,40974,Microscopy,mask,1,Microscopy,1.0
+forged,40994,Microscopy,mask,1,Microscopy,1.0
+forged,41001,Microscopy,mask,1,Microscopy,1.0
+forged,41011,Microscopy,mask,11,Microscopy,1.0
+forged,41017,Microscopy,mask,1,Microscopy,0.991
+forged,41024,Graphs,mask,1,Graphs,0.999
+forged,41037,Blots,mask,1,Blots,1.0
+forged,41043,Graphs,area,1,Graphs,0.0
+forged,41073,Microscopy,mask,4,Microscopy,1.0
+forged,41079,Microscopy,mask,1,Microscopy,1.0
+forged,41080,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,41081,Blots,mask,1,Blots,0.996
+forged,41090,Body Imaging,mask,1,Body Imaging,1.0
+forged,41125,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,41142,Microscopy,mask,1,Microscopy,1.0
+forged,41171,Blots,mask,1,Blots,1.0
+forged,41172,Microscopy,mask,1,Microscopy,1.0
+forged,41201,Microscopy,mask,1,Microscopy,1.0
+forged,41227,Microscopy,mask,1,Microscopy,1.0
+forged,41229,Microscopy,mask,1,Microscopy,1.0
+forged,41255,Microscopy,mask,1,Microscopy,1.0
+forged,41284,Microscopy,mask,1,Microscopy,1.0
+forged,4129,Microscopy,mask,1,Microscopy,1.0
+forged,41295,Body Imaging,mask,1,Body Imaging,0.736
+forged,41322,Microscopy,mask,1,Microscopy,1.0
+forged,414,Blots,mask,1,Blots,1.0
+forged,41406,Blots,mask,1,Blots,1.0
+forged,41462,Microscopy,mask,1,Microscopy,1.0
+forged,41484,Microscopy,mask,1,Microscopy,1.0
+forged,41499,Graphs,mask,4,Body Imaging;Graphs,0.999
+forged,41517,Microscopy,mask,2,Graphs;Microscopy,1.0
+forged,41553,Microscopy,mask,1,Microscopy,1.0
+forged,41565,Microscopy,mask,1,Microscopy,1.0
+forged,41583,Microscopy,mask,1,Microscopy,1.0
+forged,41585,Microscopy,mask,5,Microscopy,1.0
+forged,41600,Body Imaging,mask,1,Body Imaging,1.0
+forged,41618,Microscopy,mask,5,Microscopy,1.0
+forged,41625,Microscopy,mask,1,Microscopy,1.0
+forged,41629,Microscopy,mask,1,Microscopy,1.0
+forged,41696,Body Imaging,mask,2,Body Imaging;Microscopy,0.999
+forged,41697,Microscopy,mask,1,Microscopy,1.0
+forged,41702,Microscopy,mask,1,Microscopy,1.0
+forged,41719,Microscopy,mask,1,Microscopy,0.999
+forged,41726,Microscopy,mask,3,Microscopy,1.0
+forged,41816,Graphs,mask,2,Body Imaging;Graphs,0.999
+forged,41822,Microscopy,mask,1,Microscopy,1.0
+forged,41830,Body Imaging,mask,3,Body Imaging,0.491
+forged,41852,Blots,mask,1,Blots,0.988
+forged,41879,Blots,mask,1,Blots,1.0
+forged,41886,Body Imaging,mask,1,Body Imaging,1.0
+forged,41895,Microscopy,mask,1,Microscopy,1.0
+forged,41926,Blots,mask,1,Blots,0.989
+forged,41930,Blots,mask,1,Blots,1.0
+forged,420,Microscopy,mask,1,Microscopy,1.0
+forged,42034,Blots,mask,1,Blots,1.0
+forged,42035,Graphs,mask,2,Body Imaging;Graphs,1.0
+forged,42039,Microscopy,mask,2,Microscopy,1.0
+forged,42083,Microscopy,mask,1,Microscopy,1.0
+forged,42097,Body Imaging,mask,3,Body Imaging;Graphs,1.0
+forged,42118,Microscopy,mask,1,Microscopy,1.0
+forged,42121,Microscopy,mask,1,Microscopy,1.0
+forged,42187,Blots,mask,1,Blots,1.0
+forged,422,Microscopy,mask,1,Microscopy,1.0
+forged,42203,Blots,mask,1,Blots,0.997
+forged,4221,Microscopy,mask,1,Microscopy,1.0
+forged,4222,Body Imaging,mask,1,Body Imaging,1.0
+forged,42246,Microscopy,mask,1,Microscopy,1.0
+forged,42266,Microscopy,mask,1,Microscopy,1.0
+forged,42268,Blots,mask,1,Blots,1.0
+forged,42287,Microscopy,mask,1,Microscopy,1.0
+forged,42289,Microscopy,mask,1,Microscopy,1.0
+forged,42305,Microscopy,mask,1,Microscopy,1.0
+forged,42308,Microscopy,mask,1,Microscopy,1.0
+forged,42333,Microscopy,mask,1,Microscopy,1.0
+forged,42340,Body Imaging,mask,1,Body Imaging,1.0
+forged,42385,Blots,mask,1,Blots,0.979
+forged,42391,Microscopy,mask,1,Microscopy,1.0
+forged,42419,Microscopy,mask,2,Microscopy,1.0
+forged,42427,Microscopy,mask,1,Microscopy,1.0
+forged,42443,Microscopy,mask,1,Microscopy,1.0
+forged,42461,Blots,mask,1,Blots,1.0
+forged,42498,Microscopy,mask,1,Microscopy,0.999
+forged,42512,Microscopy,mask,1,Microscopy,1.0
+forged,42528,Microscopy,mask,1,Microscopy,1.0
+forged,42630,Microscopy,mask,1,Microscopy,1.0
+forged,42632,Body Imaging,mask,2,Body Imaging,0.972
+forged,42641,Microscopy,mask,5,Microscopy,1.0
+forged,42698,Blots,mask,1,Blots,0.965
+forged,427,Blots,mask,1,Blots,0.986
+forged,42735,Microscopy,mask,1,Microscopy,1.0
+forged,42742,Microscopy,mask,1,Microscopy,1.0
+forged,42757,Microscopy,mask,1,Microscopy,1.0
+forged,42776,Microscopy,mask,1,Microscopy,1.0
+forged,42801,Blots,mask,1,Blots,1.0
+forged,42827,Body Imaging,mask,5,Body Imaging,1.0
+forged,42832,Microscopy,mask,1,Microscopy,0.977
+forged,42834,Microscopy,mask,1,Microscopy,1.0
+forged,42886,Blots,mask,1,Blots,0.991
+forged,42916,Body Imaging,mask,3,Body Imaging;Graphs,1.0
+forged,42983,Body Imaging,mask,1,Body Imaging,1.0
+forged,43085,Blots,mask,1,Blots,1.0
+forged,43093,Body Imaging,mask,9,Body Imaging;Graphs,0.999
+forged,43106,Microscopy,mask,1,Microscopy,1.0
+forged,43120,Blots,mask,1,Blots,1.0
+forged,43128,Body Imaging,mask,1,Body Imaging,0.964
+forged,43142,Microscopy,mask,4,Microscopy,1.0
+forged,43161,Microscopy,mask,1,Microscopy,1.0
+forged,43168,Microscopy,mask,1,Microscopy,1.0
+forged,4318,Microscopy,mask,1,Microscopy,1.0
+forged,43193,Microscopy,mask,1,Microscopy,1.0
+forged,4321,Blots,mask,1,Blots,1.0
+forged,43222,Microscopy,mask,4,Microscopy,1.0
+forged,4326,Microscopy,mask,3,Microscopy,0.696
+forged,43269,Microscopy,mask,3,Microscopy,1.0
+forged,43270,Body Imaging,mask,1,Body Imaging,0.812
+forged,43285,Blots,mask,1,Blots,0.992
+forged,43300,Microscopy,mask,1,Microscopy,1.0
+forged,43301,Blots,mask,1,Blots,1.0
+forged,43324,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,43340,Microscopy,mask,1,Microscopy,1.0
+forged,43368,Microscopy,mask,1,Microscopy,1.0
+forged,43391,Microscopy,mask,1,Microscopy,1.0
+forged,43459,Microscopy,mask,1,Microscopy,1.0
+forged,43582,Microscopy,mask,2,Graphs;Microscopy,1.0
+forged,43589,Body Imaging,mask,5,Body Imaging,0.921
+forged,43610,Microscopy,mask,1,Microscopy,1.0
+forged,43623,Microscopy,mask,1,Microscopy,1.0
+forged,43659,Blots,mask,1,Blots,0.996
+forged,43660,Body Imaging,mask,2,Body Imaging,0.517
+forged,43703,Blots,mask,1,Blots,0.994
+forged,4371,Microscopy,mask,1,Microscopy,1.0
+forged,43712,Microscopy,mask,1,Microscopy,1.0
+forged,43726,Microscopy,mask,1,Microscopy,1.0
+forged,43760,Microscopy,mask,1,Microscopy,1.0
+forged,43787,Microscopy,mask,1,Microscopy,1.0
+forged,43810,Microscopy,mask,1,Microscopy,0.999
+forged,43831,Body Imaging,mask,3,Body Imaging;Graphs,1.0
+forged,43839,Microscopy,mask,1,Microscopy,1.0
+forged,43850,Microscopy,mask,1,Microscopy,1.0
+forged,43877,Microscopy,mask,2,Microscopy,1.0
+forged,43915,Microscopy,mask,1,Microscopy,1.0
+forged,43955,Microscopy,mask,1,Microscopy,1.0
+forged,43986,Body Imaging,mask,1,Body Imaging,0.999
+forged,43994,Body Imaging,mask,6,Body Imaging;Graphs,1.0
+forged,44000,Microscopy,mask,1,Microscopy,1.0
+forged,44020,Microscopy,mask,1,Microscopy,1.0
+forged,44040,Microscopy,mask,1,Microscopy,1.0
+forged,44074,Microscopy,mask,1,Microscopy,1.0
+forged,44122,Microscopy,mask,2,Microscopy,1.0
+forged,44157,Microscopy,mask,1,Microscopy,1.0
+forged,44171,Blots,mask,1,Blots,0.99
+forged,44187,Microscopy,mask,1,Microscopy,1.0
+forged,44208,Blots,mask,1,Blots,0.989
+forged,44212,Body Imaging,mask,1,Body Imaging,1.0
+forged,44231,Blots,mask,1,Blots,0.995
+forged,44236,Blots,mask,1,Blots,0.989
+forged,44267,Blots,mask,1,Blots,1.0
+forged,44291,Microscopy,mask,1,Microscopy,1.0
+forged,44298,Microscopy,mask,1,Microscopy,1.0
+forged,44309,Microscopy,mask,1,Microscopy,1.0
+forged,44311,Microscopy,mask,1,Microscopy,1.0
+forged,44347,Body Imaging,mask,3,Body Imaging,1.0
+forged,44387,Blots,mask,1,Blots,0.986
+forged,44399,Blots,mask,1,Blots,1.0
+forged,44408,Microscopy,mask,1,Microscopy,1.0
+forged,44409,Microscopy,mask,1,Microscopy,1.0
+forged,44420,Microscopy,mask,1,Microscopy,1.0
+forged,44426,Blots,mask,1,Blots,0.969
+forged,44475,Microscopy,mask,1,Microscopy,1.0
+forged,44554,Blots,mask,1,Blots,1.0
+forged,44555,Blots,mask,1,Blots,1.0
+forged,44575,Graphs,mask,2,Graphs,0.997
+forged,4460,Microscopy,mask,1,Microscopy,1.0
+forged,44600,Microscopy,mask,1,Microscopy,1.0
+forged,44606,Microscopy,mask,1,Microscopy,1.0
+forged,44622,Blots,mask,1,Blots,1.0
+forged,44640,Blots,mask,1,Blots,0.987
+forged,44648,Microscopy,mask,1,Microscopy,1.0
+forged,44652,Microscopy,mask,1,Microscopy,1.0
+forged,44656,Microscopy,mask,1,Microscopy,1.0
+forged,44666,Blots,mask,1,Blots,1.0
+forged,44701,Graphs,mask,2,Body Imaging;Graphs,0.942
+forged,44749,Microscopy,mask,1,Microscopy,1.0
+forged,44750,Microscopy,mask,1,Microscopy,1.0
+forged,44751,Graphs,mask,3,Body Imaging;Graphs,1.0
+forged,44778,Blots,mask,1,Blots,0.98
+forged,44800,Microscopy,mask,1,Microscopy,1.0
+forged,4481,Blots,mask,1,Blots,0.99
+forged,44821,Microscopy,mask,1,Microscopy,1.0
+forged,44825,Microscopy,mask,1,Microscopy,1.0
+forged,44829,Blots,mask,1,Blots,0.99
+forged,44838,Microscopy,mask,2,Microscopy,1.0
+forged,4490,Microscopy,mask,1,Microscopy,1.0
+forged,44928,Microscopy,mask,1,Microscopy,1.0
+forged,44940,Microscopy,mask,1,Microscopy,1.0
+forged,45004,Microscopy,mask,1,Microscopy,1.0
+forged,45025,Microscopy,mask,1,Microscopy,1.0
+forged,45030,Microscopy,mask,1,Microscopy,0.972
+forged,4508,Microscopy,mask,1,Microscopy,1.0
+forged,45124,Microscopy,mask,1,Microscopy,1.0
+forged,45133,Microscopy,mask,1,Microscopy,1.0
+forged,45139,Body Imaging,mask,1,Body Imaging,1.0
+forged,45151,Blots,mask,1,Blots,1.0
+forged,45152,Microscopy,mask,6,Microscopy,1.0
+forged,45180,Microscopy,mask,1,Microscopy,1.0
+forged,45182,Graphs,mask,1,Graphs,0.999
+forged,45202,Microscopy,mask,1,Microscopy,1.0
+forged,45218,Blots,mask,1,Blots,1.0
+forged,45269,Microscopy,mask,1,Microscopy,1.0
+forged,45287,Microscopy,mask,1,Microscopy,1.0
+forged,45310,Microscopy,mask,1,Microscopy,1.0
+forged,45315,Body Imaging,mask,1,Body Imaging,1.0
+forged,45345,Microscopy,mask,1,Microscopy,1.0
+forged,45376,Microscopy,mask,1,Microscopy,1.0
+forged,45377,Microscopy,mask,1,Microscopy,1.0
+forged,45381,Microscopy,mask,1,Microscopy,1.0
+forged,45400,Microscopy,mask,1,Microscopy,1.0
+forged,45485,Microscopy,mask,1,Microscopy,1.0
+forged,45496,Blots,mask,1,Blots,1.0
+forged,45522,Blots,mask,1,Blots,1.0
+forged,45536,Microscopy,mask,1,Microscopy,1.0
+forged,45552,Microscopy,mask,1,Microscopy,1.0
+forged,4556,Microscopy,mask,1,Microscopy,1.0
+forged,45563,Blots,mask,2,Blots,1.0
+forged,45602,Microscopy,mask,1,Microscopy,1.0
+forged,45620,Blots,mask,7,Blots,0.994
+forged,45686,Blots,mask,1,Blots,0.982
+forged,45710,Blots,mask,1,Blots,1.0
+forged,45712,Microscopy,mask,1,Microscopy,1.0
+forged,45720,Microscopy,mask,1,Microscopy,1.0
+forged,45767,Blots,mask,1,Blots,1.0
+forged,45784,Microscopy,mask,1,Microscopy,1.0
+forged,45821,Microscopy,mask,1,Microscopy,1.0
+forged,45838,Microscopy,mask,1,Microscopy,1.0
+forged,45866,Blots,mask,1,Blots,0.988
+forged,45878,Microscopy,mask,1,Microscopy,1.0
+forged,45889,Blots,mask,1,Blots,0.991
+forged,45911,Microscopy,mask,1,Microscopy,1.0
+forged,45913,Microscopy,mask,1,Microscopy,1.0
+forged,4592,Body Imaging,mask,1,Body Imaging,1.0
+forged,45958,Microscopy,mask,1,Microscopy,1.0
+forged,46006,Blots,mask,1,Blots,0.998
+forged,46083,Microscopy,mask,2,Microscopy,1.0
+forged,4609,Microscopy,mask,1,Microscopy,1.0
+forged,46098,Blots,mask,1,Blots,1.0
+forged,46106,Microscopy,mask,1,Microscopy,1.0
+forged,46109,Microscopy,mask,1,Microscopy,1.0
+forged,46171,Blots,mask,1,Blots,1.0
+forged,46175,Microscopy,mask,1,Microscopy,1.0
+forged,46202,Microscopy,mask,1,Microscopy,1.0
+forged,46206,Microscopy,mask,1,Microscopy,1.0
+forged,46212,Microscopy,mask,1,Microscopy,1.0
+forged,46226,Body Imaging,mask,4,Body Imaging;Graphs,1.0
+forged,46243,Blots,mask,1,Blots,1.0
+forged,46305,Microscopy,mask,1,Microscopy,0.996
+forged,46309,Blots,mask,1,Blots,1.0
+forged,46310,Blots,mask,1,Blots,1.0
+forged,46312,Microscopy,mask,1,Microscopy,1.0
+forged,4634,Microscopy,mask,1,Microscopy,1.0
+forged,46356,Blots,mask,1,Blots,0.991
+forged,46366,Microscopy,mask,2,Microscopy,0.999
+forged,46425,Microscopy,mask,1,Microscopy,1.0
+forged,46444,Microscopy,mask,1,Microscopy,1.0
+forged,46473,Microscopy,mask,1,Microscopy,1.0
+forged,4650,Blots,mask,1,Blots,1.0
+forged,46500,Blots,mask,1,Blots,0.99
+forged,46511,Body Imaging,mask,1,Body Imaging,1.0
+forged,46547,Microscopy,mask,1,Microscopy,1.0
+forged,46568,Blots,mask,1,Blots,0.996
+forged,46577,Microscopy,mask,1,Microscopy,1.0
+forged,46698,Blots,mask,1,Blots,1.0
+forged,46733,Microscopy,mask,1,Microscopy,1.0
+forged,46735,Microscopy,mask,1,Microscopy,1.0
+forged,46754,Body Imaging,mask,1,Body Imaging,0.999
+forged,46819,Microscopy,mask,1,Microscopy,1.0
+forged,46836,Body Imaging,mask,2,Body Imaging,0.999
+forged,46849,Microscopy,mask,1,Microscopy,1.0
+forged,46885,Microscopy,mask,1,Microscopy,1.0
+forged,46887,Microscopy,mask,1,Microscopy,1.0
+forged,46898,Microscopy,mask,1,Microscopy,1.0
+forged,46907,Body Imaging,mask,1,Body Imaging,1.0
+forged,46910,Blots,mask,1,Blots,1.0
+forged,46927,Blots,mask,1,Blots,0.994
+forged,46933,Body Imaging,mask,7,Body Imaging;Microscopy,0.967
+forged,46935,Microscopy,mask,1,Microscopy,1.0
+forged,46969,Microscopy,mask,1,Microscopy,1.0
+forged,46974,Microscopy,mask,1,Microscopy,1.0
+forged,46979,Microscopy,mask,1,Microscopy,1.0
+forged,47003,Body Imaging,mask,1,Body Imaging,0.993
+forged,47017,Blots,mask,1,Blots,1.0
+forged,47030,Microscopy,mask,1,Microscopy,1.0
+forged,47033,Microscopy,mask,1,Microscopy,1.0
+forged,47049,Microscopy,mask,1,Microscopy,1.0
+forged,47052,Microscopy,mask,1,Microscopy,1.0
+forged,47068,Body Imaging,mask,1,Body Imaging,1.0
+forged,47069,Microscopy,mask,4,Microscopy,1.0
+forged,47090,Microscopy,mask,1,Microscopy,1.0
+forged,47097,Microscopy,mask,1,Microscopy,1.0
+forged,47101,Microscopy,mask,4,Microscopy,1.0
+forged,47133,Microscopy,mask,1,Microscopy,1.0
+forged,47151,Microscopy,mask,1,Microscopy,1.0
+forged,4716,Body Imaging,mask,2,Body Imaging;Graphs,0.996
+forged,47185,Microscopy,mask,1,Microscopy,1.0
+forged,47238,Body Imaging,mask,1,Body Imaging,1.0
+forged,47252,Microscopy,mask,1,Microscopy,1.0
+forged,47261,Blots,mask,1,Blots,0.994
+forged,47318,Microscopy,mask,1,Microscopy,1.0
+forged,4733,Microscopy,mask,1,Microscopy,1.0
+forged,47366,Microscopy,mask,1,Microscopy,1.0
+forged,47376,Blots,mask,1,Blots,0.995
+forged,4740,Body Imaging,mask,3,Body Imaging,0.492
+forged,47405,Microscopy,mask,1,Microscopy,1.0
+forged,47424,Microscopy,mask,1,Microscopy,1.0
+forged,47426,Microscopy,mask,1,Microscopy,1.0
+forged,4743,Microscopy,mask,1,Microscopy,1.0
+forged,47441,Microscopy,mask,1,Microscopy,1.0
+forged,47513,Blots,mask,1,Blots,1.0
+forged,47574,Microscopy,mask,1,Microscopy,1.0
+forged,47586,Microscopy,mask,1,Microscopy,1.0
+forged,4772,Microscopy,mask,1,Microscopy,1.0
+forged,47770,Microscopy,mask,1,Microscopy,1.0
+forged,47777,Microscopy,mask,1,Microscopy,1.0
+forged,47790,Microscopy,mask,4,Microscopy,1.0
+forged,47830,Microscopy,mask,1,Microscopy,0.99
+forged,47871,Microscopy,mask,1,Microscopy,1.0
+forged,47916,Blots,mask,1,Blots,1.0
+forged,47980,Graphs,mask,4,Body Imaging;Graphs,1.0
+forged,48001,Blots,mask,1,Blots,1.0
+forged,4806,Microscopy,mask,1,Microscopy,1.0
+forged,48070,Microscopy,mask,1,Microscopy,1.0
+forged,48113,Microscopy,mask,1,Microscopy,1.0
+forged,48130,Microscopy,mask,1,Microscopy,1.0
+forged,48131,Microscopy,mask,4,Microscopy,1.0
+forged,48147,Microscopy,mask,1,Microscopy,1.0
+forged,48184,Microscopy,mask,1,Microscopy,1.0
+forged,48207,Blots,mask,1,Blots,0.981
+forged,48216,Blots,mask,1,Blots,1.0
+forged,48219,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,48255,Microscopy,mask,1,Microscopy,1.0
+forged,48271,Microscopy,mask,1,Microscopy,1.0
+forged,48272,Microscopy,mask,5,Microscopy,0.528
+forged,48275,Microscopy,mask,1,Microscopy,1.0
+forged,48280,Microscopy,mask,1,Microscopy,1.0
+forged,48291,Microscopy,mask,1,Microscopy,1.0
+forged,48293,Blots,mask,1,Blots,0.993
+forged,48333,Microscopy,mask,1,Microscopy,1.0
+forged,48351,Microscopy,mask,1,Microscopy,1.0
+forged,48358,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,48390,Microscopy,mask,1,Microscopy,1.0
+forged,48419,Microscopy,mask,1,Microscopy,1.0
+forged,4845,Microscopy,mask,1,Microscopy,1.0
+forged,48454,Blots,mask,1,Blots,0.995
+forged,4853,Microscopy,mask,1,Microscopy,1.0
+forged,48562,Microscopy,mask,1,Microscopy,1.0
+forged,4858,none,none,0,,0.0
+forged,4865,Microscopy,mask,1,Microscopy,1.0
+forged,48680,Microscopy,mask,1,Microscopy,1.0
+forged,48697,Blots,mask,1,Blots,1.0
+forged,48704,Microscopy,mask,1,Microscopy,1.0
+forged,48705,Microscopy,mask,1,Microscopy,1.0
+forged,48718,Microscopy,mask,1,Microscopy,1.0
+forged,48730,Blots,mask,1,Blots,1.0
+forged,48779,Microscopy,mask,1,Microscopy,1.0
+forged,48806,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,48818,Microscopy,mask,1,Microscopy,0.989
+forged,48836,Microscopy,mask,20,Microscopy,1.0
+forged,48880,Microscopy,mask,1,Microscopy,1.0
+forged,48919,Microscopy,mask,1,Microscopy,1.0
+forged,48937,Microscopy,mask,2,Microscopy,1.0
+forged,48945,Microscopy,mask,1,Microscopy,1.0
+forged,48981,Body Imaging,mask,3,Body Imaging,1.0
+forged,4899,Blots,mask,1,Blots,1.0
+forged,48996,Microscopy,mask,1,Microscopy,1.0
+forged,48997,Microscopy,mask,1,Microscopy,1.0
+forged,49009,Microscopy,mask,2,Body Imaging;Microscopy,0.993
+forged,49042,Microscopy,mask,1,Microscopy,1.0
+forged,49080,Microscopy,mask,1,Microscopy,0.996
+forged,49131,Microscopy,mask,1,Microscopy,1.0
+forged,49149,Microscopy,mask,1,Microscopy,1.0
+forged,4920,Blots,mask,1,Blots,1.0
+forged,49233,Microscopy,mask,1,Microscopy,1.0
+forged,49237,Body Imaging,mask,4,Body Imaging,1.0
+forged,49318,Microscopy,mask,1,Microscopy,1.0
+forged,49351,Body Imaging,area,1,Body Imaging,0.0
+forged,49410,Blots,mask,1,Blots,1.0
+forged,49506,Microscopy,mask,1,Microscopy,1.0
+forged,49514,Microscopy,mask,2,Microscopy,1.0
+forged,49541,Microscopy,mask,1,Microscopy,1.0
+forged,4955,Graphs,mask,2,Graphs,0.999
+forged,49567,Body Imaging,mask,1,Body Imaging,0.939
+forged,4957,Microscopy,mask,2,Graphs;Microscopy,1.0
+forged,49583,Microscopy,mask,1,Microscopy,1.0
+forged,49613,Microscopy,mask,1,Microscopy,1.0
+forged,49622,Microscopy,mask,1,Microscopy,1.0
+forged,49672,Microscopy,mask,4,Microscopy,1.0
+forged,49710,Microscopy,mask,1,Microscopy,1.0
+forged,49711,Microscopy,mask,1,Microscopy,1.0
+forged,49712,Blots,mask,1,Blots,1.0
+forged,49716,Microscopy,mask,1,Microscopy,1.0
+forged,49721,Microscopy,mask,1,Microscopy,1.0
+forged,49733,Microscopy,mask,1,Microscopy,1.0
+forged,49740,Microscopy,mask,3,Microscopy,1.0
+forged,49770,Microscopy,mask,1,Microscopy,1.0
+forged,49777,Microscopy,mask,1,Microscopy,1.0
+forged,49797,Blots,mask,1,Blots,1.0
+forged,49799,Blots,mask,1,Blots,0.98
+forged,49819,Microscopy,mask,1,Microscopy,1.0
+forged,49827,Microscopy,mask,1,Microscopy,0.995
+forged,4984,Microscopy,mask,1,Microscopy,1.0
+forged,49903,Blots,mask,1,Blots,1.0
+forged,4992,Microscopy,mask,1,Microscopy,1.0
+forged,49921,Microscopy,mask,1,Microscopy,1.0
+forged,49928,Blots,mask,1,Blots,1.0
+forged,49956,Microscopy,mask,1,Microscopy,0.999
+forged,49969,Microscopy,mask,1,Microscopy,1.0
+forged,49982,Microscopy,mask,2,Microscopy,1.0
+forged,4999,Microscopy,mask,1,Microscopy,1.0
+forged,50000,Blots,mask,1,Blots,1.0
+forged,50028,Microscopy,mask,1,Microscopy,1.0
+forged,5003,Microscopy,mask,1,Microscopy,1.0
+forged,50069,Microscopy,mask,1,Microscopy,1.0
+forged,5009,Blots,mask,1,Blots,0.984
+forged,50117,Microscopy,mask,1,Microscopy,1.0
+forged,50124,Microscopy,mask,5,Microscopy,0.785
+forged,50126,Microscopy,mask,1,Microscopy,1.0
+forged,50158,Blots,mask,1,Blots,1.0
+forged,50229,Microscopy,mask,1,Microscopy,1.0
+forged,5023,Body Imaging,mask,1,Body Imaging,1.0
+forged,50237,Microscopy,mask,1,Microscopy,1.0
+forged,50245,Microscopy,mask,1,Microscopy,1.0
+forged,50255,Microscopy,mask,1,Microscopy,1.0
+forged,50258,Blots,mask,1,Blots,1.0
+forged,50267,Body Imaging,mask,2,Body Imaging;Graphs,0.877
+forged,50280,Blots,mask,1,Blots,1.0
+forged,50294,Microscopy,mask,1,Microscopy,1.0
+forged,50311,Microscopy,mask,1,Microscopy,1.0
+forged,50315,Microscopy,mask,1,Microscopy,1.0
+forged,50357,Microscopy,mask,1,Microscopy,1.0
+forged,50362,Microscopy,mask,1,Microscopy,1.0
+forged,50396,Blots,mask,1,Blots,1.0
+forged,50419,Blots,mask,1,Blots,0.997
+forged,50471,Blots,mask,1,Blots,1.0
+forged,50487,Microscopy,mask,1,Microscopy,1.0
+forged,50502,Microscopy,mask,1,Microscopy,1.0
+forged,50505,Body Imaging,mask,6,Body Imaging,1.0
+forged,50539,Microscopy,mask,1,Microscopy,1.0
+forged,50568,Microscopy,mask,1,Microscopy,1.0
+forged,50573,Microscopy,mask,1,Microscopy,1.0
+forged,50607,Microscopy,mask,1,Microscopy,1.0
+forged,50632,Microscopy,mask,1,Microscopy,1.0
+forged,50636,Microscopy,mask,1,Microscopy,1.0
+forged,50664,Body Imaging,mask,6,Body Imaging,1.0
+forged,50666,Microscopy,mask,1,Microscopy,1.0
+forged,50673,Microscopy,mask,1,Microscopy,1.0
+forged,50679,Blots,mask,1,Blots,1.0
+forged,50690,Blots,mask,1,Blots,0.986
+forged,50698,Blots,mask,1,Blots,1.0
+forged,50720,Body Imaging,mask,1,Body Imaging,1.0
+forged,50767,Blots,mask,1,Blots,1.0
+forged,50793,Microscopy,mask,1,Microscopy,1.0
+forged,5080,Graphs,mask,1,Graphs,1.0
+forged,50814,Graphs,mask,1,Graphs,0.999
+forged,50848,Microscopy,mask,1,Microscopy,1.0
+forged,50877,Microscopy,mask,1,Microscopy,1.0
+forged,50905,Microscopy,mask,1,Microscopy,0.998
+forged,50907,Microscopy,mask,1,Microscopy,1.0
+forged,50921,Microscopy,mask,1,Microscopy,1.0
+forged,50924,Blots,mask,1,Blots,1.0
+forged,50968,Microscopy,mask,1,Microscopy,1.0
+forged,50978,Body Imaging,mask,2,Body Imaging,0.518
+forged,50983,Microscopy,mask,1,Microscopy,1.0
+forged,50989,Blots,mask,1,Blots,0.982
+forged,50999,Microscopy,mask,1,Microscopy,1.0
+forged,51038,Microscopy,mask,1,Microscopy,1.0
+forged,51045,Blots,mask,1,Blots,1.0
+forged,51069,Microscopy,mask,1,Microscopy,1.0
+forged,51085,Microscopy,mask,1,Microscopy,1.0
+forged,51087,Blots,mask,1,Blots,1.0
+forged,51101,Body Imaging,mask,5,Body Imaging;Graphs,1.0
+forged,51155,Body Imaging,mask,5,Body Imaging,1.0
+forged,51165,Microscopy,mask,1,Microscopy,1.0
+forged,51168,Body Imaging,mask,1,Body Imaging,0.998
+forged,51169,Microscopy,mask,1,Microscopy,1.0
+forged,51177,Microscopy,mask,1,Microscopy,1.0
+forged,51198,Microscopy,mask,1,Microscopy,1.0
+forged,51227,Microscopy,mask,1,Microscopy,1.0
+forged,51234,Blots,mask,1,Blots,0.997
+forged,5125,Graphs,mask,1,Graphs,0.998
+forged,5126,Microscopy,mask,1,Microscopy,1.0
+forged,51277,Microscopy,mask,1,Microscopy,1.0
+forged,5130,Blots,mask,1,Blots,0.986
+forged,51300,Microscopy,mask,1,Microscopy,1.0
+forged,51306,Blots,mask,1,Blots,1.0
+forged,51313,Microscopy,mask,1,Microscopy,1.0
+forged,51342,Microscopy,mask,1,Microscopy,1.0
+forged,51345,Graphs,mask,2,Body Imaging;Graphs,1.0
+forged,51441,Microscopy,mask,1,Microscopy,1.0
+forged,51464,Microscopy,mask,1,Microscopy,1.0
+forged,5151,Microscopy,mask,1,Microscopy,1.0
+forged,51524,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,51552,Blots,mask,1,Blots,1.0
+forged,51608,Microscopy,mask,1,Microscopy,1.0
+forged,51643,Microscopy,mask,2,Microscopy,1.0
+forged,51668,Microscopy,mask,3,Microscopy,1.0
+forged,51688,Microscopy,mask,1,Microscopy,1.0
+forged,51718,Microscopy,mask,1,Microscopy,1.0
+forged,51742,Microscopy,mask,1,Microscopy,1.0
+forged,5175,Microscopy,mask,5,Graphs;Microscopy,1.0
+forged,51771,Blots,mask,1,Blots,1.0
+forged,51787,Body Imaging,mask,1,Body Imaging,0.999
+forged,51796,Microscopy,mask,1,Microscopy,0.999
+forged,5180,Body Imaging,mask,3,Body Imaging,0.003
+forged,51831,Microscopy,mask,1,Microscopy,1.0
+forged,51891,Body Imaging,mask,4,Body Imaging;Microscopy,1.0
+forged,51906,Microscopy,mask,1,Microscopy,1.0
+forged,51924,Microscopy,mask,1,Microscopy,1.0
+forged,51927,Microscopy,mask,3,Microscopy,1.0
+forged,5195,Microscopy,mask,1,Microscopy,1.0
+forged,51954,Body Imaging,mask,2,Body Imaging,1.0
+forged,51959,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,52050,Microscopy,mask,1,Microscopy,1.0
+forged,52072,Blots,mask,1,Blots,1.0
+forged,52116,Microscopy,mask,1,Microscopy,1.0
+forged,52188,Body Imaging,mask,2,Body Imaging;Graphs,0.995
+forged,52192,Blots,mask,2,Blots;Microscopy,1.0
+forged,5220,Blots,mask,1,Blots,1.0
+forged,52205,Body Imaging,mask,3,Body Imaging;Graphs,1.0
+forged,52207,Blots,mask,2,Blots,0.896
+forged,52254,Microscopy,mask,1,Microscopy,1.0
+forged,5227,Body Imaging,mask,3,Body Imaging;Graphs,1.0
+forged,52298,Microscopy,mask,1,Microscopy,1.0
+forged,52302,Microscopy,mask,6,Microscopy,1.0
+forged,5233,Blots,mask,1,Blots,0.986
+forged,5234,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,52385,Blots,mask,1,Blots,1.0
+forged,52396,Blots,mask,2,Blots,1.0
+forged,5250,Microscopy,mask,1,Microscopy,1.0
+forged,52521,Microscopy,mask,1,Microscopy,1.0
+forged,52524,Blots,mask,1,Blots,1.0
+forged,52559,Microscopy,mask,1,Microscopy,1.0
+forged,52590,Blots,mask,1,Blots,1.0
+forged,52639,Microscopy,mask,1,Microscopy,1.0
+forged,52644,Body Imaging,mask,3,Body Imaging;Graphs,0.481
+forged,52666,Microscopy,mask,1,Microscopy,1.0
+forged,52678,Microscopy,mask,1,Microscopy,1.0
+forged,5270,Microscopy,mask,1,Microscopy,1.0
+forged,52735,Blots,mask,1,Blots,1.0
+forged,52737,Blots,mask,1,Blots,1.0
+forged,52747,Microscopy,mask,1,Microscopy,1.0
+forged,5279,Microscopy,mask,1,Microscopy,1.0
+forged,52798,Microscopy,mask,1,Microscopy,1.0
+forged,52825,Microscopy,mask,1,Microscopy,1.0
+forged,52848,Blots,mask,1,Blots,1.0
+forged,52864,Microscopy,mask,1,Microscopy,1.0
+forged,52877,Blots,mask,1,Blots,1.0
+forged,52927,Blots,mask,1,Blots,1.0
+forged,52991,Microscopy,mask,1,Microscopy,1.0
+forged,52999,Body Imaging,mask,8,Body Imaging;Microscopy,1.0
+forged,53028,Body Imaging,mask,1,Body Imaging,1.0
+forged,53102,Microscopy,mask,1,Microscopy,1.0
+forged,53118,Microscopy,mask,1,Microscopy,1.0
+forged,5312,Body Imaging,mask,3,Body Imaging;Graphs;Microscopy,1.0
+forged,53132,Blots,mask,1,Blots,1.0
+forged,53137,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,53149,Microscopy,mask,1,Microscopy,1.0
+forged,53157,Microscopy,mask,2,Microscopy,1.0
+forged,53177,Microscopy,mask,1,Microscopy,1.0
+forged,53206,Microscopy,mask,1,Microscopy,1.0
+forged,53208,Blots,mask,1,Blots,0.976
+forged,53236,Microscopy,mask,1,Microscopy,1.0
+forged,53248,Microscopy,mask,7,Microscopy,1.0
+forged,53296,Microscopy,mask,1,Microscopy,1.0
+forged,53356,Microscopy,mask,1,Microscopy,1.0
+forged,53382,Microscopy,mask,1,Microscopy,1.0
+forged,53398,Microscopy,mask,1,Microscopy,1.0
+forged,53404,Body Imaging,mask,6,Body Imaging,0.999
+forged,53433,Microscopy,mask,1,Microscopy,1.0
+forged,53464,Microscopy,mask,1,Microscopy,1.0
+forged,53495,Microscopy,mask,1,Microscopy,1.0
+forged,5352,Blots,mask,1,Blots,1.0
+forged,53527,Microscopy,mask,1,Microscopy,1.0
+forged,53570,Blots,mask,1,Blots,1.0
+forged,53590,Microscopy,mask,1,Microscopy,1.0
+forged,53626,Microscopy,mask,1,Microscopy,0.998
+forged,53648,Microscopy,mask,4,Microscopy,1.0
+forged,53675,Microscopy,mask,1,Microscopy,1.0
+forged,53763,Microscopy,mask,1,Microscopy,1.0
+forged,53772,Microscopy,mask,1,Microscopy,1.0
+forged,53806,Blots,mask,1,Blots,1.0
+forged,5384,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,5385,Blots,mask,1,Blots,1.0
+forged,53877,Blots,mask,1,Blots,1.0
+forged,53882,Microscopy,mask,1,Microscopy,1.0
+forged,53889,Microscopy,mask,1,Microscopy,1.0
+forged,53912,Body Imaging,mask,3,Body Imaging;Graphs;Microscopy,1.0
+forged,53927,Blots,mask,1,Blots,1.0
+forged,53951,Body Imaging,mask,3,Body Imaging,1.0
+forged,53961,Microscopy,mask,1,Microscopy,1.0
+forged,53963,Blots,mask,1,Blots,0.989
+forged,53993,Blots,mask,1,Blots,0.988
+forged,54000,Microscopy,mask,1,Microscopy,1.0
+forged,54002,Microscopy,mask,1,Microscopy,1.0
+forged,54003,Microscopy,mask,1,Microscopy,0.997
+forged,54019,Microscopy,mask,1,Microscopy,1.0
+forged,54023,Microscopy,mask,1,Microscopy,1.0
+forged,54040,Blots,mask,1,Blots,1.0
+forged,54076,Body Imaging,mask,1,Body Imaging,1.0
+forged,5410,Microscopy,mask,1,Microscopy,1.0
+forged,5412,Microscopy,mask,1,Microscopy,1.0
+forged,54150,Microscopy,mask,1,Microscopy,1.0
+forged,54152,Body Imaging,mask,2,Body Imaging,1.0
+forged,5417,Body Imaging,mask,7,Body Imaging,1.0
+forged,54268,Microscopy,mask,1,Microscopy,1.0
+forged,54274,Microscopy,mask,1,Microscopy,1.0
+forged,54309,Blots,mask,1,Blots,1.0
+forged,5436,Blots,mask,1,Blots,0.99
+forged,54386,Blots,mask,1,Blots,0.992
+forged,54397,Microscopy,mask,1,Microscopy,1.0
+forged,54439,Microscopy,mask,1,Microscopy,1.0
+forged,54475,Microscopy,mask,1,Microscopy,1.0
+forged,54527,Body Imaging,mask,1,Body Imaging,1.0
+forged,54532,Blots,mask,1,Blots,1.0
+forged,54543,Microscopy,mask,1,Microscopy,1.0
+forged,54544,Blots,mask,1,Blots,1.0
+forged,54545,Microscopy,mask,1,Microscopy,1.0
+forged,54553,Microscopy,mask,1,Microscopy,1.0
+forged,54573,Body Imaging,mask,2,Body Imaging,1.0
+forged,5462,Microscopy,mask,1,Microscopy,1.0
+forged,54636,Microscopy,mask,1,Microscopy,1.0
+forged,54680,Microscopy,mask,1,Microscopy,1.0
+forged,54689,Microscopy,mask,1,Microscopy,1.0
+forged,54710,Blots,mask,1,Blots,1.0
+forged,54735,Blots,mask,1,Blots,0.987
+forged,54737,Body Imaging,mask,5,Body Imaging;Microscopy,1.0
+forged,54750,Microscopy,mask,1,Microscopy,1.0
+forged,54790,Microscopy,mask,1,Microscopy,1.0
+forged,54811,Microscopy,mask,1,Microscopy,1.0
+forged,54847,Microscopy,mask,1,Microscopy,1.0
+forged,54849,Microscopy,mask,1,Microscopy,1.0
+forged,54863,Blots,mask,1,Blots,1.0
+forged,54870,Blots,mask,1,Blots,1.0
+forged,54880,Microscopy,mask,1,Microscopy,1.0
+forged,54922,Microscopy,mask,1,Microscopy,1.0
+forged,5494,Body Imaging,mask,5,Body Imaging;Microscopy,1.0
+forged,54942,Blots,mask,1,Blots,1.0
+forged,54945,Graphs,mask,3,Body Imaging;Graphs,1.0
+forged,54950,Microscopy,area,4,Microscopy,0.0
+forged,54974,Microscopy,mask,1,Microscopy,1.0
+forged,54998,Microscopy,mask,1,Microscopy,1.0
+forged,55005,Microscopy,mask,1,Microscopy,0.999
+forged,55025,Microscopy,mask,1,Microscopy,0.962
+forged,55030,Microscopy,mask,1,Microscopy,1.0
+forged,55031,Microscopy,mask,1,Microscopy,1.0
+forged,55037,Blots,mask,1,Blots,0.989
+forged,5506,Blots,mask,1,Blots,1.0
+forged,55072,Blots,mask,1,Blots,0.988
+forged,55079,Microscopy,mask,1,Microscopy,1.0
+forged,55112,Microscopy,mask,1,Microscopy,1.0
+forged,55156,Blots,mask,1,Blots,1.0
+forged,55165,Blots,mask,1,Blots,1.0
+forged,55175,Body Imaging,mask,1,Body Imaging,0.995
+forged,55226,Blots,mask,1,Blots,0.995
+forged,55232,Microscopy,mask,1,Microscopy,1.0
+forged,55247,Microscopy,mask,1,Microscopy,1.0
+forged,55249,Body Imaging,mask,5,Body Imaging;Graphs,1.0
+forged,55291,Microscopy,mask,1,Microscopy,1.0
+forged,55300,Microscopy,mask,1,Microscopy,1.0
+forged,55317,Microscopy,mask,1,Microscopy,1.0
+forged,55333,Blots,mask,1,Blots,0.98
+forged,55380,Body Imaging,mask,3,Body Imaging,1.0
+forged,55394,Microscopy,mask,1,Microscopy,1.0
+forged,55490,Microscopy,mask,4,Microscopy,1.0
+forged,55494,Microscopy,mask,2,Microscopy,1.0
+forged,55497,Microscopy,mask,1,Microscopy,1.0
+forged,55536,Blots,mask,1,Blots,1.0
+forged,55541,Microscopy,mask,1,Microscopy,1.0
+forged,55585,Microscopy,mask,1,Microscopy,1.0
+forged,55600,Graphs,mask,4,Body Imaging;Graphs,1.0
+forged,55639,Microscopy,mask,1,Microscopy,0.998
+forged,55650,Body Imaging,mask,1,Body Imaging,1.0
+forged,55651,Blots,mask,1,Blots,1.0
+forged,55655,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,55667,Body Imaging,mask,3,Body Imaging,1.0
+forged,55674,Blots,mask,1,Blots,0.978
+forged,55684,Graphs,mask,1,Graphs,0.999
+forged,55695,Blots,mask,1,Blots,1.0
+forged,55712,Microscopy,mask,1,Microscopy,1.0
+forged,5573,Microscopy,mask,1,Microscopy,1.0
+forged,55762,Microscopy,mask,1,Microscopy,0.999
+forged,55766,Microscopy,mask,4,Microscopy,1.0
+forged,55790,Microscopy,mask,2,Microscopy,1.0
+forged,55806,Blots,mask,1,Blots,1.0
+forged,55816,Body Imaging,mask,1,Body Imaging,1.0
+forged,55818,Microscopy,mask,1,Microscopy,1.0
+forged,55931,Microscopy,mask,1,Microscopy,1.0
+forged,55949,Microscopy,mask,1,Microscopy,1.0
+forged,56002,Microscopy,mask,1,Microscopy,1.0
+forged,5602,Microscopy,mask,1,Microscopy,1.0
+forged,56052,Blots,mask,1,Blots,1.0
+forged,56106,Microscopy,mask,1,Microscopy,1.0
+forged,56127,Blots,mask,1,Blots,0.984
+forged,56145,Microscopy,mask,1,Microscopy,1.0
+forged,56173,Microscopy,mask,1,Microscopy,1.0
+forged,56181,Microscopy,mask,1,Microscopy,1.0
+forged,56232,Microscopy,mask,1,Microscopy,1.0
+forged,5626,Microscopy,mask,10,Microscopy,1.0
+forged,56264,Microscopy,mask,1,Microscopy,1.0
+forged,56269,Microscopy,mask,1,Microscopy,1.0
+forged,56297,Microscopy,mask,1,Microscopy,1.0
+forged,56310,Microscopy,mask,1,Microscopy,1.0
+forged,56311,Microscopy,mask,1,Microscopy,1.0
+forged,56339,Microscopy,mask,1,Microscopy,1.0
+forged,56376,Body Imaging,mask,2,Body Imaging,0.999
+forged,56390,Microscopy,mask,1,Microscopy,1.0
+forged,56402,Microscopy,mask,1,Microscopy,1.0
+forged,56438,Blots,mask,1,Blots,1.0
+forged,56442,Microscopy,mask,1,Microscopy,1.0
+forged,56443,Microscopy,mask,1,Microscopy,1.0
+forged,56452,Microscopy,mask,1,Microscopy,1.0
+forged,56472,Microscopy,mask,3,Microscopy,1.0
+forged,56515,Microscopy,mask,1,Microscopy,1.0
+forged,56544,Blots,mask,1,Blots,1.0
+forged,56549,Body Imaging,mask,6,Body Imaging,1.0
+forged,56563,Microscopy,mask,1,Microscopy,1.0
+forged,56582,Microscopy,mask,1,Microscopy,0.984
+forged,56589,Body Imaging,mask,3,Body Imaging;Microscopy,1.0
+forged,56623,Microscopy,mask,1,Microscopy,1.0
+forged,56659,Microscopy,mask,1,Microscopy,1.0
+forged,56700,Microscopy,mask,1,Microscopy,1.0
+forged,56712,Microscopy,mask,1,Microscopy,1.0
+forged,56723,Microscopy,mask,1,Microscopy,1.0
+forged,5675,Microscopy,mask,1,Microscopy,1.0
+forged,56771,Microscopy,mask,1,Microscopy,1.0
+forged,56778,Microscopy,mask,1,Microscopy,1.0
+forged,56787,Microscopy,mask,1,Microscopy,1.0
+forged,56793,Body Imaging,mask,1,Body Imaging,0.986
+forged,568,Microscopy,mask,4,Microscopy,1.0
+forged,56838,Microscopy,mask,1,Microscopy,1.0
+forged,56839,Blots,mask,1,Blots,0.976
+forged,56859,Microscopy,mask,1,Microscopy,1.0
+forged,569,Blots,mask,2,Blots,1.0
+forged,56903,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,56964,Microscopy,mask,1,Microscopy,1.0
+forged,56992,Microscopy,mask,1,Microscopy,1.0
+forged,56994,Microscopy,mask,1,Microscopy,1.0
+forged,56997,Microscopy,mask,1,Microscopy,1.0
+forged,57,Microscopy,mask,1,Microscopy,1.0
+forged,57011,Graphs,mask,2,Body Imaging;Graphs,0.998
+forged,57066,Blots,mask,1,Blots,1.0
+forged,57076,Body Imaging,mask,1,Body Imaging,1.0
+forged,57078,Blots,mask,1,Blots,1.0
+forged,57085,Microscopy,mask,1,Microscopy,1.0
+forged,5714,Microscopy,mask,1,Microscopy,1.0
+forged,57143,Microscopy,mask,1,Microscopy,1.0
+forged,57172,Blots,mask,1,Blots,1.0
+forged,57239,Microscopy,mask,1,Microscopy,1.0
+forged,57262,Microscopy,mask,1,Microscopy,1.0
+forged,57285,Microscopy,mask,1,Microscopy,1.0
+forged,57317,Microscopy,mask,1,Microscopy,1.0
+forged,57324,Blots,mask,1,Blots,0.993
+forged,57328,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,5734,Body Imaging,mask,1,Body Imaging,0.994
+forged,57342,Microscopy,mask,1,Microscopy,1.0
+forged,57390,Microscopy,mask,1,Microscopy,1.0
+forged,57398,Body Imaging,mask,1,Body Imaging,1.0
+forged,57505,Microscopy,mask,1,Microscopy,1.0
+forged,57512,Microscopy,mask,1,Microscopy,1.0
+forged,5756,Blots,mask,1,Blots,1.0
+forged,57567,Microscopy,mask,1,Microscopy,1.0
+forged,57635,Graphs,mask,1,Graphs,0.971
+forged,57643,Body Imaging,mask,1,Body Imaging,0.859
+forged,57652,Blots,mask,1,Blots,1.0
+forged,57664,Microscopy,mask,1,Microscopy,1.0
+forged,57681,Microscopy,mask,1,Microscopy,1.0
+forged,57713,Microscopy,mask,1,Microscopy,1.0
+forged,5772,Microscopy,mask,1,Microscopy,0.989
+forged,57729,Microscopy,mask,1,Microscopy,1.0
+forged,5779,Microscopy,mask,1,Microscopy,1.0
+forged,57800,Microscopy,mask,1,Microscopy,1.0
+forged,57823,Blots,mask,1,Blots,0.996
+forged,57824,Microscopy,mask,1,Microscopy,1.0
+forged,57875,Body Imaging,mask,1,Body Imaging,0.991
+forged,57883,Microscopy,mask,1,Microscopy,1.0
+forged,57892,Microscopy,mask,1,Microscopy,1.0
+forged,5792,Microscopy,mask,1,Microscopy,1.0
+forged,57927,Body Imaging,mask,1,Body Imaging,1.0
+forged,57993,Microscopy,mask,1,Microscopy,1.0
+forged,58055,Microscopy,mask,1,Microscopy,1.0
+forged,58065,Body Imaging,mask,2,Body Imaging;Microscopy,0.999
+forged,5807,Microscopy,mask,1,Microscopy,1.0
+forged,58081,Blots,mask,1,Blots,1.0
+forged,58090,Microscopy,mask,1,Microscopy,1.0
+forged,58101,Microscopy,mask,1,Microscopy,0.999
+forged,58128,Blots,mask,1,Blots,1.0
+forged,58142,Microscopy,mask,1,Microscopy,1.0
+forged,58180,Microscopy,mask,2,Microscopy,1.0
+forged,58197,Blots,mask,1,Blots,1.0
+forged,58252,Blots,mask,1,Blots,1.0
+forged,58269,Microscopy,mask,1,Microscopy,1.0
+forged,58293,Microscopy,mask,1,Microscopy,1.0
+forged,58338,Blots,mask,1,Blots,1.0
+forged,58339,Microscopy,mask,1,Microscopy,1.0
+forged,58378,Microscopy,mask,1,Microscopy,1.0
+forged,58419,Body Imaging,mask,2,Body Imaging,1.0
+forged,58423,Microscopy,mask,1,Microscopy,1.0
+forged,58425,Microscopy,mask,1,Microscopy,1.0
+forged,58445,Microscopy,mask,1,Microscopy,1.0
+forged,58486,Microscopy,mask,2,Microscopy,1.0
+forged,58493,Blots,mask,1,Blots,0.987
+forged,58501,Body Imaging,mask,1,Body Imaging,0.999
+forged,58510,Microscopy,mask,1,Microscopy,1.0
+forged,58544,Microscopy,mask,1,Microscopy,1.0
+forged,58545,Blots,mask,1,Blots,1.0
+forged,58579,Microscopy,mask,1,Microscopy,1.0
+forged,58588,Microscopy,mask,1,Microscopy,1.0
+forged,58593,Microscopy,mask,2,Microscopy,1.0
+forged,5863,Graphs,mask,2,Body Imaging;Graphs,1.0
+forged,58662,Microscopy,mask,1,Microscopy,1.0
+forged,58677,Microscopy,mask,1,Microscopy,1.0
+forged,58692,Microscopy,mask,1,Microscopy,1.0
+forged,58697,Microscopy,mask,4,Microscopy,1.0
+forged,58710,Microscopy,mask,1,Microscopy,1.0
+forged,58718,Microscopy,mask,2,Graphs;Microscopy,1.0
+forged,58723,Microscopy,mask,1,Microscopy,1.0
+forged,58730,Blots,mask,1,Blots,0.958
+forged,58782,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,58876,Blots,mask,1,Blots,1.0
+forged,58888,Microscopy,mask,1,Microscopy,1.0
+forged,58894,Blots,mask,1,Blots,1.0
+forged,58910,Microscopy,mask,1,Microscopy,1.0
+forged,58955,Microscopy,mask,1,Microscopy,1.0
+forged,58975,Microscopy,mask,1,Microscopy,1.0
+forged,59000,Blots,mask,1,Blots,1.0
+forged,59018,Microscopy,mask,1,Microscopy,1.0
+forged,5902,Microscopy,mask,1,Microscopy,1.0
+forged,59022,Microscopy,mask,1,Microscopy,1.0
+forged,59028,Microscopy,mask,1,Microscopy,1.0
+forged,59069,Microscopy,mask,1,Microscopy,1.0
+forged,59142,Microscopy,mask,1,Microscopy,1.0
+forged,59144,Microscopy,mask,1,Microscopy,1.0
+forged,59148,Microscopy,mask,3,Microscopy,1.0
+forged,5915,Microscopy,mask,1,Microscopy,1.0
+forged,59183,Body Imaging,mask,3,Body Imaging;Graphs,1.0
+forged,59193,Microscopy,mask,1,Microscopy,1.0
+forged,59214,Graphs,mask,2,Body Imaging;Graphs,1.0
+forged,59255,Microscopy,mask,1,Microscopy,1.0
+forged,59297,Body Imaging,mask,3,Body Imaging;Graphs,0.999
+forged,59320,Blots,mask,1,Blots,1.0
+forged,59327,Body Imaging,mask,1,Body Imaging,0.749
+forged,5937,Microscopy,mask,1,Microscopy,1.0
+forged,59375,Microscopy,mask,1,Microscopy,1.0
+forged,59380,Microscopy,mask,1,Microscopy,1.0
+forged,59381,Microscopy,mask,1,Microscopy,1.0
+forged,5939,Microscopy,mask,4,Microscopy,1.0
+forged,59413,Microscopy,mask,2,Microscopy,0.992
+forged,59453,Microscopy,mask,1,Microscopy,1.0
+forged,59456,Microscopy,mask,1,Microscopy,1.0
+forged,59467,Blots,mask,1,Blots,0.988
+forged,59531,Microscopy,mask,1,Microscopy,1.0
+forged,59597,Microscopy,mask,1,Microscopy,1.0
+forged,59617,Blots,mask,1,Blots,0.983
+forged,59619,Microscopy,mask,1,Microscopy,1.0
+forged,59645,Body Imaging,mask,1,Body Imaging,1.0
+forged,59651,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,59655,Microscopy,mask,1,Microscopy,1.0
+forged,5967,Microscopy,mask,1,Microscopy,1.0
+forged,59679,Microscopy,mask,1,Microscopy,1.0
+forged,59710,Microscopy,mask,1,Microscopy,1.0
+forged,59715,Blots,mask,1,Blots,1.0
+forged,598,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,59832,Microscopy,mask,6,Microscopy,1.0
+forged,59840,Blots,mask,1,Blots,1.0
+forged,59856,Microscopy,mask,1,Microscopy,1.0
+forged,59910,Body Imaging,area,2,Body Imaging,0.0
+forged,59919,Graphs,mask,3,Body Imaging;Graphs,1.0
+forged,59951,Body Imaging,mask,2,Body Imaging,1.0
+forged,59969,Body Imaging,mask,4,Body Imaging;Graphs,0.519
+forged,59979,Blots,mask,1,Blots,1.0
+forged,59991,Microscopy,mask,1,Microscopy,1.0
+forged,60033,Blots,mask,1,Blots,1.0
+forged,60046,Microscopy,mask,1,Microscopy,1.0
+forged,60057,Blots,mask,1,Blots,1.0
+forged,6006,Microscopy,mask,1,Microscopy,1.0
+forged,60075,Blots,mask,1,Blots,1.0
+forged,60076,Blots,mask,1,Blots,0.986
+forged,6011,Microscopy,mask,1,Microscopy,1.0
+forged,60113,Microscopy,mask,1,Microscopy,1.0
+forged,60122,Microscopy,mask,1,Microscopy,1.0
+forged,60154,Microscopy,mask,1,Microscopy,1.0
+forged,60193,Body Imaging,mask,1,Body Imaging,1.0
+forged,60195,Microscopy,mask,1,Microscopy,1.0
+forged,60233,Microscopy,mask,1,Microscopy,1.0
+forged,60244,Microscopy,mask,1,Microscopy,1.0
+forged,60265,Microscopy,mask,1,Microscopy,1.0
+forged,60269,Microscopy,mask,1,Microscopy,1.0
+forged,60298,Microscopy,mask,1,Microscopy,1.0
+forged,6030,Microscopy,mask,1,Microscopy,1.0
+forged,60319,Microscopy,mask,1,Microscopy,1.0
+forged,60323,Microscopy,mask,1,Microscopy,1.0
+forged,60327,Microscopy,mask,1,Microscopy,1.0
+forged,60340,Microscopy,mask,1,Microscopy,1.0
+forged,60378,Microscopy,mask,1,Microscopy,1.0
+forged,60399,Microscopy,mask,1,Microscopy,1.0
+forged,60408,Microscopy,mask,1,Microscopy,1.0
+forged,60434,Blots,mask,1,Blots,1.0
+forged,60457,Body Imaging,mask,4,Body Imaging,0.494
+forged,60486,Microscopy,mask,1,Microscopy,1.0
+forged,60501,Microscopy,mask,3,Microscopy,1.0
+forged,60527,Blots,mask,1,Blots,1.0
+forged,60539,Microscopy,mask,1,Microscopy,1.0
+forged,6060,Blots,mask,1,Blots,0.99
+forged,60687,Microscopy,mask,1,Microscopy,1.0
+forged,60701,Body Imaging,mask,8,Body Imaging;Microscopy,0.999
+forged,60705,Microscopy,mask,1,Microscopy,1.0
+forged,60760,Body Imaging,mask,1,Body Imaging,1.0
+forged,60829,Microscopy,mask,1,Microscopy,1.0
+forged,60867,Body Imaging,mask,5,Body Imaging;Graphs,0.999
+forged,60927,Microscopy,mask,1,Microscopy,1.0
+forged,60947,Body Imaging,mask,2,Body Imaging,1.0
+forged,60954,Blots,mask,1,Blots,1.0
+forged,60986,Blots,mask,1,Blots,0.993
+forged,60993,Microscopy,mask,1,Microscopy,1.0
+forged,610,Microscopy,mask,1,Microscopy,1.0
+forged,61022,Microscopy,mask,1,Microscopy,1.0
+forged,61028,Microscopy,mask,1,Microscopy,1.0
+forged,6103,Blots,mask,1,Blots,1.0
+forged,61030,Microscopy,mask,1,Microscopy,1.0
+forged,61072,Microscopy,mask,1,Microscopy,1.0
+forged,61078,Microscopy,mask,1,Microscopy,1.0
+forged,6111,Microscopy,mask,1,Microscopy,1.0
+forged,61134,Microscopy,mask,1,Microscopy,1.0
+forged,61166,Microscopy,mask,3,Microscopy,1.0
+forged,6117,Blots,mask,1,Blots,1.0
+forged,61212,Microscopy,mask,1,Microscopy,1.0
+forged,61221,Microscopy,mask,1,Microscopy,1.0
+forged,61270,Microscopy,mask,3,Microscopy,1.0
+forged,61298,Body Imaging,mask,2,Body Imaging;Graphs,0.998
+forged,6130,Body Imaging,mask,3,Body Imaging;Graphs,0.999
+forged,61326,Microscopy,mask,1,Microscopy,1.0
+forged,61338,Microscopy,mask,1,Microscopy,1.0
+forged,61355,Microscopy,mask,1,Microscopy,1.0
+forged,61450,Body Imaging,mask,3,Body Imaging;Microscopy,1.0
+forged,61492,Microscopy,mask,1,Microscopy,1.0
+forged,61506,Graphs,mask,1,Graphs,1.0
+forged,61540,Microscopy,mask,1,Microscopy,1.0
+forged,61566,Microscopy,mask,1,Microscopy,1.0
+forged,6159,Microscopy,mask,1,Microscopy,1.0
+forged,61595,Microscopy,mask,1,Microscopy,1.0
+forged,6164,Microscopy,mask,2,Microscopy,1.0
+forged,61674,Body Imaging,mask,6,Body Imaging,0.5
+forged,61725,Microscopy,mask,1,Microscopy,1.0
+forged,61741,Blots,mask,1,Blots,1.0
+forged,61744,Microscopy,mask,1,Microscopy,1.0
+forged,61868,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,6187,Blots,mask,1,Blots,1.0
+forged,61883,Microscopy,mask,1,Microscopy,1.0
+forged,6190,Microscopy,mask,1,Microscopy,1.0
+forged,61903,Microscopy,mask,4,Microscopy,1.0
+forged,61946,Microscopy,mask,1,Microscopy,1.0
+forged,61966,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,61997,Microscopy,mask,1,Microscopy,1.0
+forged,62029,Microscopy,mask,1,Microscopy,1.0
+forged,62032,Body Imaging,mask,3,Body Imaging;Graphs,0.999
+forged,62064,Microscopy,mask,1,Microscopy,1.0
+forged,62095,Blots,mask,1,Blots,1.0
+forged,6212,Microscopy,mask,1,Microscopy,1.0
+forged,62151,Microscopy,mask,1,Microscopy,1.0
+forged,62161,Microscopy,mask,1,Microscopy,1.0
+forged,62164,Microscopy,mask,1,Microscopy,1.0
+forged,62195,Microscopy,mask,1,Microscopy,1.0
+forged,62249,Microscopy,mask,3,Microscopy,1.0
+forged,62273,Body Imaging,area,2,Body Imaging,0.0
+forged,62276,Microscopy,mask,1,Microscopy,1.0
+forged,62284,Blots,mask,1,Blots,1.0
+forged,62327,Microscopy,mask,1,Microscopy,1.0
+forged,62330,Microscopy,mask,1,Microscopy,1.0
+forged,62358,Microscopy,mask,1,Microscopy,1.0
+forged,62359,Body Imaging,mask,2,Body Imaging;Graphs,0.995
+forged,62463,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,62504,Microscopy,mask,1,Microscopy,1.0
+forged,62519,Blots,mask,1,Blots,0.984
+forged,62623,Microscopy,mask,10,Microscopy,1.0
+forged,62625,Microscopy,mask,1,Microscopy,1.0
+forged,62628,Microscopy,mask,1,Microscopy,1.0
+forged,62643,Body Imaging,mask,3,Body Imaging;Graphs,1.0
+forged,62663,Blots,mask,1,Blots,1.0
+forged,6269,Microscopy,mask,1,Microscopy,1.0
+forged,62733,Microscopy,mask,1,Microscopy,1.0
+forged,62748,Blots,mask,2,Blots;Microscopy,0.992
+forged,62754,Microscopy,mask,1,Microscopy,1.0
+forged,62767,Blots,mask,1,Blots,0.983
+forged,62793,Microscopy,mask,1,Microscopy,1.0
+forged,62828,Blots,mask,1,Blots,0.997
+forged,62833,Microscopy,mask,1,Microscopy,1.0
+forged,62848,Blots,mask,1,Blots,0.989
+forged,62865,Microscopy,mask,1,Microscopy,0.996
+forged,62871,Microscopy,mask,1,Microscopy,1.0
+forged,62893,Microscopy,mask,1,Microscopy,0.993
+forged,6301,Microscopy,mask,1,Microscopy,1.0
+forged,63025,Microscopy,mask,1,Microscopy,1.0
+forged,63046,Microscopy,mask,1,Microscopy,1.0
+forged,6309,Blots,mask,1,Blots,1.0
+forged,63095,Microscopy,mask,1,Microscopy,1.0
+forged,63100,Microscopy,mask,7,Body Imaging;Microscopy,0.998
+forged,63102,Microscopy,mask,1,Microscopy,1.0
+forged,63117,Microscopy,mask,1,Microscopy,1.0
+forged,63146,Body Imaging,mask,3,Body Imaging;Graphs,1.0
+forged,63197,Microscopy,mask,1,Microscopy,1.0
+forged,63205,Blots,mask,1,Blots,1.0
+forged,63224,Blots,mask,1,Blots,0.988
+forged,63245,Blots,mask,1,Blots,1.0
+forged,63257,Body Imaging,mask,3,Body Imaging;Graphs,1.0
+forged,63262,Microscopy,mask,1,Microscopy,1.0
+forged,63282,Blots,mask,1,Blots,1.0
+forged,63286,Microscopy,mask,1,Microscopy,1.0
+forged,633,Microscopy,mask,1,Microscopy,1.0
+forged,63306,Blots,mask,2,Blots,1.0
+forged,63312,Blots,mask,1,Blots,0.992
+forged,63348,Body Imaging,mask,5,Body Imaging;Graphs,0.49
+forged,63350,Microscopy,mask,2,Microscopy,1.0
+forged,63355,Microscopy,mask,1,Microscopy,1.0
+forged,63357,Microscopy,mask,1,Microscopy,1.0
+forged,63371,Microscopy,mask,1,Microscopy,1.0
+forged,63397,Microscopy,mask,1,Microscopy,1.0
+forged,63425,Blots,mask,1,Blots,0.993
+forged,63427,Microscopy,mask,1,Microscopy,1.0
+forged,63456,Microscopy,mask,1,Microscopy,1.0
+forged,63531,Microscopy,mask,1,Microscopy,1.0
+forged,63544,Microscopy,mask,1,Microscopy,1.0
+forged,63547,Body Imaging,mask,3,Body Imaging;Microscopy,1.0
+forged,63654,Microscopy,mask,2,Microscopy,1.0
+forged,63687,Body Imaging,mask,3,Body Imaging;Graphs,0.974
+forged,63689,Blots,mask,1,Blots,1.0
+forged,63694,Graphs,mask,3,Body Imaging;Graphs,1.0
+forged,63707,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,63713,Microscopy,mask,3,Body Imaging;Microscopy,1.0
+forged,6372,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,63757,Microscopy,mask,1,Microscopy,1.0
+forged,63793,Microscopy,mask,9,Microscopy,1.0
+forged,63798,Blots,mask,1,Blots,1.0
+forged,63834,Microscopy,mask,6,Microscopy,1.0
+forged,63839,Microscopy,mask,1,Microscopy,1.0
+forged,63871,Microscopy,mask,1,Microscopy,1.0
+forged,639,Microscopy,mask,1,Microscopy,1.0
+forged,63918,Microscopy,mask,1,Microscopy,1.0
+forged,63947,Blots,mask,1,Blots,1.0
+forged,63968,Microscopy,mask,1,Microscopy,1.0
+forged,64006,Microscopy,mask,2,Microscopy,1.0
+forged,64026,Microscopy,mask,5,Microscopy,0.997
+forged,6406,Microscopy,mask,1,Microscopy,0.996
+forged,6407,Microscopy,mask,1,Microscopy,1.0
+forged,64084,Microscopy,mask,1,Microscopy,1.0
+forged,64098,Microscopy,mask,1,Microscopy,1.0
+forged,64116,Microscopy,mask,1,Microscopy,1.0
+forged,64120,Microscopy,mask,9,Microscopy,0.504
+forged,64128,Body Imaging,mask,2,Body Imaging,0.999
+forged,64134,Microscopy,mask,1,Microscopy,1.0
+forged,64165,Blots,mask,1,Blots,0.999
+forged,64173,Microscopy,mask,1,Microscopy,1.0
+forged,64188,Microscopy,mask,1,Microscopy,1.0
+forged,6419,Blots,mask,1,Blots,0.991
+forged,64194,Microscopy,mask,1,Microscopy,1.0
+forged,64216,Microscopy,mask,1,Microscopy,1.0
+forged,64233,Microscopy,mask,1,Microscopy,1.0
+forged,64239,Microscopy,mask,1,Microscopy,1.0
+forged,64245,Microscopy,mask,1,Microscopy,1.0
+forged,64268,Microscopy,mask,1,Microscopy,1.0
+forged,64272,Microscopy,mask,1,Microscopy,0.996
+forged,64280,Body Imaging,mask,1,Body Imaging,0.999
+forged,64285,Microscopy,mask,1,Microscopy,1.0
+forged,64289,Microscopy,mask,1,Microscopy,1.0
+forged,6432,Microscopy,mask,1,Microscopy,1.0
+forged,64332,Microscopy,mask,1,Microscopy,1.0
+forged,64360,Microscopy,mask,1,Microscopy,1.0
+forged,64362,Microscopy,mask,1,Microscopy,1.0
+forged,64391,Microscopy,mask,3,Microscopy,1.0
+forged,64435,Blots,mask,1,Blots,0.992
+forged,64449,Microscopy,mask,1,Microscopy,1.0
+forged,6448,Microscopy,mask,1,Microscopy,1.0
+forged,64524,Blots,mask,1,Blots,1.0
+forged,6454,Microscopy,mask,1,Microscopy,1.0
+forged,64589,Body Imaging,mask,2,Body Imaging;Graphs,0.999
+forged,64601,Microscopy,mask,1,Microscopy,0.995
+forged,64649,Microscopy,mask,1,Microscopy,1.0
+forged,64685,Microscopy,mask,1,Microscopy,1.0
+forged,64717,Microscopy,mask,1,Microscopy,1.0
+forged,64749,Microscopy,mask,1,Microscopy,1.0
+forged,64750,Blots,mask,1,Blots,1.0
+forged,64756,Microscopy,mask,1,Microscopy,1.0
+forged,6476,Microscopy,mask,1,Microscopy,1.0
+forged,64773,Microscopy,mask,1,Microscopy,1.0
+forged,64821,Blots,mask,1,Blots,1.0
+forged,6488,Microscopy,mask,1,Microscopy,1.0
+forged,64881,Microscopy,mask,1,Microscopy,1.0
+forged,64935,Microscopy,mask,1,Microscopy,1.0
+forged,64941,Blots,mask,1,Blots,0.987
+forged,64971,Body Imaging,mask,3,Body Imaging;Graphs,1.0
+forged,64972,Microscopy,mask,1,Microscopy,0.999
+forged,65039,Blots,mask,1,Blots,0.98
+forged,65065,Body Imaging,mask,5,Body Imaging,1.0
+forged,6508,Body Imaging,mask,4,Body Imaging;Graphs,0.999
+forged,6516,Microscopy,mask,1,Microscopy,1.0
+forged,65167,Microscopy,mask,1,Microscopy,1.0
+forged,65177,Microscopy,mask,1,Microscopy,1.0
+forged,65189,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,65200,Microscopy,mask,1,Microscopy,1.0
+forged,65214,Microscopy,mask,1,Microscopy,1.0
+forged,65230,Microscopy,mask,1,Microscopy,1.0
+forged,65242,Microscopy,mask,1,Microscopy,1.0
+forged,653,Body Imaging,mask,2,Body Imaging;Microscopy,1.0
+forged,65311,Microscopy,mask,1,Microscopy,1.0
+forged,65322,Body Imaging,mask,5,Body Imaging;Graphs,1.0
+forged,65371,Blots,mask,1,Blots,1.0
+forged,65382,Microscopy,mask,1,Microscopy,0.996
+forged,65396,Microscopy,mask,5,Microscopy,0.997
+forged,65399,Microscopy,mask,1,Microscopy,1.0
+forged,6540,Body Imaging,mask,2,Body Imaging;Microscopy,0.992
+forged,65463,Microscopy,mask,1,Microscopy,0.988
+forged,65465,Microscopy,mask,1,Microscopy,1.0
+forged,65481,Microscopy,mask,1,Microscopy,1.0
+forged,65532,Microscopy,mask,1,Microscopy,1.0
+forged,6566,Microscopy,mask,1,Microscopy,1.0
+forged,6580,Microscopy,mask,1,Microscopy,1.0
+forged,6581,Microscopy,mask,1,Microscopy,1.0
+forged,6596,Blots,mask,1,Blots,0.986
+forged,6618,Microscopy,mask,1,Microscopy,1.0
+forged,6620,Microscopy,mask,2,Microscopy,1.0
+forged,6633,Microscopy,mask,1,Microscopy,1.0
+forged,6658,Blots,mask,1,Blots,0.993
+forged,6676,Microscopy,mask,1,Microscopy,1.0
+forged,6696,Microscopy,mask,1,Microscopy,1.0
+forged,6729,Blots,mask,1,Blots,1.0
+forged,6737,Microscopy,mask,1,Microscopy,1.0
+forged,6775,Microscopy,mask,1,Microscopy,1.0
+forged,6782,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,6800,Microscopy,mask,1,Microscopy,1.0
+forged,6811,Blots,mask,1,Blots,0.989
+forged,6845,Microscopy,mask,1,Microscopy,1.0
+forged,6857,Microscopy,mask,1,Microscopy,1.0
+forged,6892,Microscopy,mask,1,Microscopy,1.0
+forged,6932,Microscopy,mask,1,Microscopy,1.0
+forged,6942,Microscopy,mask,1,Microscopy,1.0
+forged,6959,Microscopy,mask,1,Microscopy,1.0
+forged,6993,Microscopy,mask,1,Microscopy,1.0
+forged,6999,Microscopy,mask,1,Microscopy,1.0
+forged,7004,Microscopy,mask,1,Microscopy,1.0
+forged,7013,Microscopy,mask,1,Microscopy,1.0
+forged,7050,Microscopy,mask,1,Microscopy,1.0
+forged,7120,Microscopy,mask,1,Microscopy,0.999
+forged,7127,Body Imaging,mask,2,Body Imaging;Graphs,0.999
+forged,7130,Microscopy,mask,1,Microscopy,1.0
+forged,7146,Microscopy,mask,1,Microscopy,0.99
+forged,7179,Microscopy,mask,1,Microscopy,1.0
+forged,7210,Microscopy,mask,1,Microscopy,0.995
+forged,7274,Microscopy,mask,1,Microscopy,1.0
+forged,7279,Microscopy,mask,1,Microscopy,1.0
+forged,7282,Blots,mask,1,Blots,0.971
+forged,732,Microscopy,mask,1,Microscopy,1.0
+forged,7320,Microscopy,mask,1,Microscopy,1.0
+forged,7333,Microscopy,mask,3,Microscopy,1.0
+forged,7411,Body Imaging,mask,1,Body Imaging,0.999
+forged,7430,Body Imaging,mask,2,Body Imaging;Microscopy,0.999
+forged,745,Microscopy,mask,1,Microscopy,1.0
+forged,7455,Microscopy,mask,1,Microscopy,1.0
+forged,7465,Microscopy,mask,1,Microscopy,1.0
+forged,7498,Microscopy,mask,1,Microscopy,1.0
+forged,751,Microscopy,mask,1,Microscopy,1.0
+forged,752,Blots,mask,1,Blots,1.0
+forged,7561,Microscopy,mask,1,Microscopy,1.0
+forged,7574,Blots,mask,1,Blots,1.0
+forged,7610,Microscopy,mask,1,Microscopy,1.0
+forged,7649,Microscopy,mask,1,Microscopy,1.0
+forged,765,Microscopy,mask,1,Microscopy,1.0
+forged,767,Body Imaging,mask,3,Body Imaging;Graphs;Microscopy,1.0
+forged,7698,Microscopy,mask,1,Microscopy,1.0
+forged,770,Microscopy,mask,1,Microscopy,1.0
+forged,7703,Body Imaging,mask,2,Body Imaging;Graphs,0.745
+forged,7705,Body Imaging,mask,4,Body Imaging;Graphs,1.0
+forged,7712,Blots,mask,1,Blots,0.993
+forged,7713,Microscopy,mask,1,Microscopy,1.0
+forged,7715,Body Imaging,mask,7,Body Imaging;Graphs,0.988
+forged,7716,Microscopy,mask,1,Microscopy,1.0
+forged,775,Microscopy,mask,1,Microscopy,0.995
+forged,7759,Blots,mask,1,Blots,0.987
+forged,7770,Microscopy,mask,1,Microscopy,0.998
+forged,7771,Microscopy,mask,1,Microscopy,1.0
+forged,7827,Microscopy,mask,1,Microscopy,1.0
+forged,7829,Microscopy,mask,2,Microscopy,1.0
+forged,7904,Microscopy,mask,1,Microscopy,1.0
+forged,7914,Microscopy,mask,1,Microscopy,1.0
+forged,7972,Blots,mask,1,Blots,1.0
+forged,7986,Microscopy,mask,1,Microscopy,1.0
+forged,8017,Microscopy,mask,1,Microscopy,0.995
+forged,8034,Body Imaging,mask,1,Body Imaging,1.0
+forged,804,Microscopy,mask,1,Microscopy,1.0
+forged,8074,Body Imaging,mask,2,Body Imaging,1.0
+forged,8080,Blots,mask,1,Blots,1.0
+forged,8081,Body Imaging,mask,7,Body Imaging;Microscopy,0.999
+forged,8092,Microscopy,mask,1,Microscopy,1.0
+forged,8109,Microscopy,mask,3,Microscopy,1.0
+forged,8130,Microscopy,mask,1,Microscopy,1.0
+forged,8169,Microscopy,mask,1,Microscopy,1.0
+forged,8175,Blots,mask,1,Blots,1.0
+forged,8214,Microscopy,mask,1,Microscopy,1.0
+forged,8246,Body Imaging,mask,1,Body Imaging,1.0
+forged,8259,Microscopy,mask,1,Microscopy,1.0
+forged,8266,Microscopy,mask,1,Microscopy,1.0
+forged,8268,Blots,mask,1,Blots,1.0
+forged,8288,Microscopy,mask,3,Microscopy,1.0
+forged,8300,Microscopy,mask,1,Microscopy,1.0
+forged,8388,Microscopy,mask,2,Graphs;Microscopy,1.0
+forged,8401,Microscopy,mask,1,Microscopy,1.0
+forged,842,Microscopy,mask,1,Microscopy,1.0
+forged,8424,Body Imaging,mask,1,Body Imaging,0.999
+forged,8431,Microscopy,mask,1,Microscopy,1.0
+forged,8481,Microscopy,mask,1,Microscopy,0.999
+forged,8517,Microscopy,mask,1,Microscopy,1.0
+forged,8565,Microscopy,mask,1,Microscopy,1.0
+forged,8613,Microscopy,mask,4,Microscopy,1.0
+forged,8622,Microscopy,mask,1,Microscopy,1.0
+forged,8678,Microscopy,mask,1,Microscopy,0.997
+forged,868,Microscopy,mask,1,Microscopy,1.0
+forged,8681,Microscopy,mask,1,Microscopy,1.0
+forged,8711,Microscopy,mask,1,Microscopy,1.0
+forged,8715,Microscopy,mask,1,Microscopy,1.0
+forged,8721,Microscopy,mask,1,Microscopy,0.996
+forged,8733,Blots,mask,1,Blots,0.988
+forged,8783,Microscopy,mask,1,Microscopy,1.0
+forged,8807,Microscopy,mask,1,Microscopy,1.0
+forged,8808,Microscopy,mask,1,Microscopy,1.0
+forged,8874,Body Imaging,mask,1,Body Imaging,1.0
+forged,8886,Blots,mask,1,Blots,1.0
+forged,8929,Body Imaging,mask,3,Body Imaging,0.946
+forged,8935,Body Imaging,mask,2,Body Imaging;Graphs,1.0
+forged,8976,Microscopy,mask,1,Microscopy,1.0
+forged,899,Blots,mask,1,Blots,1.0
+forged,90,Microscopy,mask,1,Microscopy,1.0
+forged,9042,Blots,mask,1,Blots,0.998
+forged,9045,Microscopy,mask,1,Microscopy,1.0
+forged,9083,Microscopy,mask,1,Microscopy,1.0
+forged,9086,Microscopy,mask,1,Microscopy,1.0
+forged,9096,Blots,mask,1,Blots,1.0
+forged,9164,Microscopy,mask,1,Microscopy,1.0
+forged,9178,Microscopy,mask,1,Microscopy,1.0
+forged,9206,Microscopy,mask,1,Microscopy,1.0
+forged,9218,Blots,mask,1,Blots,0.981
+forged,9299,Microscopy,mask,1,Microscopy,0.988
+forged,9309,Microscopy,mask,1,Microscopy,1.0
+forged,937,Blots,mask,1,Blots,1.0
+forged,9533,Body Imaging,mask,3,Body Imaging;Graphs;Microscopy,0.522
+forged,9568,Body Imaging,mask,1,Body Imaging,0.999
+forged,9590,Blots,mask,1,Blots,1.0
+forged,9651,Body Imaging,mask,7,Body Imaging,1.0
+forged,9720,Blots,mask,1,Blots,1.0
+forged,9732,Blots,mask,1,Blots,1.0
+forged,9759,Microscopy,mask,1,Microscopy,1.0
+forged,9768,Microscopy,mask,1,Microscopy,1.0
+forged,9791,Microscopy,mask,1,Microscopy,1.0
+forged,9807,Microscopy,mask,1,Microscopy,1.0
+forged,9822,Microscopy,mask,1,Microscopy,1.0
+forged,9849,Graphs,mask,2,Body Imaging;Graphs,1.0
+forged,9954,Body Imaging,mask,6,Body Imaging;Graphs;Microscopy,1.0
+forged,9960,Microscopy,mask,1,Microscopy,1.0
+forged,9967,Microscopy,mask,1,Microscopy,1.0
+forged,9976,Graphs,mask,3,Body Imaging;Graphs,1.0
+forged,9977,Microscopy,mask,1,Microscopy,1.0
+supplemental,13977,Microscopy,mask,20,Microscopy,0.988
+supplemental,14128,Microscopy,mask,6,Microscopy,0.996
+supplemental,15257,Blots,mask,10,Blots;Flow Cytometry;Graphs,1.0
+supplemental,16338,Microscopy,mask,34,Graphs;Microscopy,0.983
+supplemental,16714,Microscopy,mask,12,Microscopy,0.992
+supplemental,16972,Blots,mask,8,Blots,1.0
+supplemental,1712,Microscopy,mask,14,Graphs;Microscopy,0.994
+supplemental,18821,Microscopy,mask,12,Microscopy,0.99
+supplemental,19612,Microscopy,mask,16,Microscopy,1.0
+supplemental,1970,Blots,mask,17,Blots;Graphs,0.96
+supplemental,20833,Microscopy,mask,20,Microscopy,0.986
+supplemental,20903,Microscopy,mask,10,Graphs;Microscopy,0.996
+supplemental,20942,Microscopy,mask,3,Microscopy,0.985
+supplemental,2110,Microscopy,mask,13,Blots;Graphs;Microscopy,0.992
+supplemental,22617,Microscopy,mask,6,Body Imaging;Microscopy,0.997
+supplemental,24032,Blots,mask,11,Blots,1.0
+supplemental,26779,Microscopy,mask,17,Microscopy,0.996
+supplemental,28808,Microscopy,mask,28,Graphs;Microscopy,0.987
+supplemental,31168,Microscopy,mask,8,Microscopy,1.0
+supplemental,31978,Microscopy,mask,8,Microscopy,0.998
+supplemental,32248,Blots,mask,4,Blots,1.0
+supplemental,32567,Microscopy,mask,12,Microscopy,1.0
+supplemental,32575,Microscopy,mask,20,Microscopy,0.994
+supplemental,33036,Microscopy,mask,6,Microscopy,0.997
+supplemental,36602,Microscopy,mask,9,Microscopy,0.991
+supplemental,37723,Blots,mask,4,Blots,1.0
+supplemental,37818,Body Imaging,mask,10,Body Imaging;Microscopy,1.0
+supplemental,39726,Microscopy,mask,4,Microscopy,0.991
+supplemental,40574,Microscopy,mask,6,Microscopy,0.989
+supplemental,42502,Microscopy,mask,16,Microscopy,0.997
+supplemental,42522,Microscopy,mask,16,Graphs;Microscopy,0.995
+supplemental,43444,Microscopy,mask,6,Microscopy,0.991
+supplemental,44639,Microscopy,mask,9,Graphs;Microscopy,0.995
+supplemental,46513,Microscopy,mask,24,Microscopy,0.994
+supplemental,47110,Microscopy,mask,17,Body Imaging;Graphs;Microscopy,1.0
+supplemental,47470,Blots,mask,16,Blots;Graphs,0.989
+supplemental,47493,Blots,mask,2,Blots,1.0
+supplemental,47833,Microscopy,mask,16,Microscopy,0.99
+supplemental,49484,Microscopy,mask,25,Graphs;Microscopy,1.0
+supplemental,50798,Microscopy,mask,6,Microscopy,0.997
+supplemental,51318,Microscopy,mask,21,Graphs;Microscopy,0.991
+supplemental,5205,Blots,mask,18,Blots,1.0
+supplemental,5355,Microscopy,mask,23,Graphs;Microscopy,0.985
+supplemental,59764,Blots,mask,30,Blots;Graphs,1.0
+supplemental,60087,Blots,mask,36,Blots;Graphs,0.958
+supplemental,63106,Blots,mask,28,Blots;Graphs,0.998
+supplemental,63435,Microscopy,mask,7,Graphs;Microscopy,1.0
+supplemental,64908,Blots,mask,9,Blots,0.984
